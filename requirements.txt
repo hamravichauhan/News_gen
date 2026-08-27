@@ -1,0 +1,10 @@
+requests
+feedparser
+beautifulsoup4
+pillow
+pandas
+pytrends
+praw
+lxml
+scikit-learn
+python-dotenv

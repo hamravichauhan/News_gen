@@ -1,0 +1,402 @@
+[
+  {
+    "title": "What the Data Says About AI in Security Operations in 2026",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:39.216402"
+  },
+  {
+    "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:39.400159"
+  },
+  {
+    "title": "Stratagems #25: Derek Changed the Delay. The AI Didn't Flinch.",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:40.432914"
+  },
+  {
+    "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:40.623562"
+  },
+  {
+    "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:40.816359"
+  },
+  {
+    "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:41.001971"
+  },
+  {
+    "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:41.187064"
+  },
+  {
+    "title": "Analog Optical Feedback Generates 4K Fractals With No Computer",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:41.300666"
+  },
+  {
+    "title": "eeink Provides eInk, ESP32 Powered Text Adventures",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:41.409962"
+  },
+  {
+    "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:11:41.601427"
+  },
+  {
+    "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:01.241252"
+  },
+  {
+    "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:01.357177"
+  },
+  {
+    "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:01.532663"
+  },
+  {
+    "title": "Red Flags That Expose Fake North Korean IT Workers",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:01.711587"
+  },
+  {
+    "title": "Android Malware Hijacks Update System for Car Head Units",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:01.891175"
+  },
+  {
+    "title": "Australia\u2019s Nationwide Phone Outage Was An Embarrassing Failure",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:02.189415"
+  },
+  {
+    "title": "Encoding MOD Files Optically On Paper, Because Amiga\u2019s Legacy Will Outlast M-Disks",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:02.317624"
+  },
+  {
+    "title": "Sloan Digital Sky Survey Releases New Map of Supermassive Black Holes",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:02.434430"
+  },
+  {
+    "title": "Making An LCD UI Look More Like Classic Indicator Lamps",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:02.551482"
+  },
+  {
+    "title": "Your Hiring Process Needs HTTP Status Codes",
+    "genre": "DEV_SECURITY",
+    "timestamp": "2026-08-27T20:15:02.754949"
+  },
+  {
+    "title": "Visa ships a security AI that patches production code before any human reviews it",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:20.973412"
+  },
+  {
+    "title": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:21.145013"
+  },
+  {
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:21.325972"
+  },
+  {
+    "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:21.507977"
+  },
+  {
+    "title": "OYO Parent PRISM\u2019s FY26 Profit Skyrockets 4X YoY To \u20b9994 Cr",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:21.635632"
+  },
+  {
+    "title": "Even Healthcare Lays Off 350 Employees Amid Hospital-Led Pivot: Report",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:21.761640"
+  },
+  {
+    "title": "Caught In The GPU Pricing Paradox, Can ESDS Deliver A Bumper IPO?",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:21.888845"
+  },
+  {
+    "title": "[Update] Rapido Back Online After An Hour Long App Outage",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:22.004106"
+  },
+  {
+    "title": "After Eight Years Of Building Quietly, Can Raphe mPhibr Conquer The Skies With Its Long-Endurance UAVs?",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:22.146934"
+  },
+  {
+    "title": "NITI Aayog Proposes Skilling Overhaul With Outcome-Linked Financing Model",
+    "genre": "BUSINESS_STARTUPS",
+    "timestamp": "2026-08-27T20:18:22.275823"
+  },
+  {
+    "title": "Double Fine Productions Makes Brutal Legend Free for 666 Minutes to Honor Tim Curry",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:50.097368"
+  },
+  {
+    "title": "70 Years Later, Pig-Pen's Best 'Peanuts' Quote Is Still a Definitive Comic Strip Moment",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:50.231170"
+  },
+  {
+    "title": "Iconic Voice of Optimus Prime, Peter Cullen, Dies at 85",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:50.356743"
+  },
+  {
+    "title": "How to Watch Rockstar Games' 'GTA 6' Netflix Preview",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:50.479545"
+  },
+  {
+    "title": "Anime's Most Iconic Toy of the '90s Is Officially Returning With New Release",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:50.604198"
+  },
+  {
+    "title": "'Toy Story 5' Streaming Release Date Officially Confirmed",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:50.725387"
+  },
+  {
+    "title": "Alienware AW3926QW review",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:50.835319"
+  },
+  {
+    "title": "GTA 6 Netflix Trailer\u2019s Beefy Runtime Revealed, Footage Captured On PS5",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:51.013152"
+  },
+  {
+    "title": "GTA 6 Wants To Remind You That Looks Matter In The Influencer Hustle Of Vice City",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:51.194248"
+  },
+  {
+    "title": "Peter Cullen, Legendary Voice Of Optimus Prime, Has Died Aged 85",
+    "genre": "GAMING_ESPORTS",
+    "timestamp": "2026-08-27T20:19:51.308661"
+  },
+  {
+    "title": "AI Is Lowering the Barriers to China\u2019s Information Warfare Against Japan",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:22.010948"
+  },
+  {
+    "title": "Tarun Tejpal\u2019s Conviction and India\u2019s Discussions About the \u2018Perfect Rape Victim\u2019",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:22.213846"
+  },
+  {
+    "title": "JASDF Fighter Jets to Visit India for First Time",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:22.407265"
+  },
+  {
+    "title": "What an Extradition Trial Reveals About Moscow\u2019s Influence in Africa",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:22.547946"
+  },
+  {
+    "title": "Convicted Bosnian Serb war criminal Mladi\u0107 dies aged 84",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:22.739010"
+  },
+  {
+    "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:22.941196"
+  },
+  {
+    "title": "What we know about deadly Nepal-Tibet floods",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:23.124909"
+  },
+  {
+    "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:23.321281"
+  },
+  {
+    "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:23.518833"
+  },
+  {
+    "title": "Thieves steal Bronze Age artifacts from Spanish museum in four-minute heist",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:26:23.717803"
+  },
+  {
+    "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:38.573595"
+  },
+  {
+    "title": "Trump\u2019s Missile Math Problem",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:38.721717"
+  },
+  {
+    "title": "Turkey\u2019s Rise Is Israel\u2019s New Problem",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:38.854553"
+  },
+  {
+    "title": "Americans Aren\u2019t as Skeptical of Foreign Aid as Washington Thinks",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:38.992006"
+  },
+  {
+    "title": "The Geopolitics Behind Rising U.S. Bond Yields",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:39.130415"
+  },
+  {
+    "title": "The \u2018Stability-Instability Paradox\u2019 Comes for Markets",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:39.266632"
+  },
+  {
+    "title": "Iran, Oman Agree to Temporary Strait of Hormuz Deal",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:39.398868"
+  },
+  {
+    "title": "The U.K. Is Falling for Palantir\u2019s Salesmanship",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:39.627582"
+  },
+  {
+    "title": "Remembering a Genocide: The View From the Rohingya Camps",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:39.825458"
+  },
+  {
+    "title": "Flash Flood Devastates China-Nepal Border Region",
+    "genre": "GEOPOLITICS",
+    "timestamp": "2026-08-27T20:34:40.021616"
+  },
+  {
+    "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:12.019111"
+  },
+  {
+    "title": "Rs 6.5 crore payout: What Subhash Chandra\u2019s order means for India\u2019s struggling insolvency mechanism",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:12.153197"
+  },
+  {
+    "title": "Why India is keenly tracking Meta\u2019s $17.1 bn settlement over social media addiction",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:12.276302"
+  },
+  {
+    "title": "Mirae Asset eyes $109 billion crypto empire after acquiring Digital X",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:12.397228"
+  },
+  {
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:12.518701"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:12.721729"
+  },
+  {
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:12.937461"
+  },
+  {
+    "title": "Roman Space Telescope Travels to SpaceX Hangar",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:13.099485"
+  },
+  {
+    "title": "AI bug reports trigger emergency warning for Bitcoin Lightning node operators",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:13.225947"
+  },
+  {
+    "title": "Plaud is launching AI earbuds",
+    "genre": "ALL",
+    "timestamp": "2026-08-27T20:38:13.376721"
+  },
+  {
+    "title": "The Xiaomi 18 Fold leaks, ahead of the iPhone Ultra launch",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:48.756855"
+  },
+  {
+    "title": "Adobe is adding more AI to Photoshop",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:48.885651"
+  },
+  {
+    "title": "Adobe Photoshop adds optional \u2018AI Assisted Editor\u2019 mode for fully prompt-based image editing",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:49.034788"
+  },
+  {
+    "title": "Plaud\u2019s new AI recorder is a pair of earbuds",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:49.191597"
+  },
+  {
+    "title": "Android 17 boosts network security by hiding domain names, lets carriers disable 2G",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:49.327274"
+  },
+  {
+    "title": "If Meta&#8217;s going down, it\u2019s taking TikTok and YouTube with it",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:49.486582"
+  },
+  {
+    "title": "OpenAI&#8217;s executive exodus has one big winner",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:49.640757"
+  },
+  {
+    "title": "Google deploys support for Encrypted Client Hello on Android 17",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:49.766665"
+  },
+  {
+    "title": "Apple has announced 11 new products in 2026 so far, with more coming soon",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:49.909656"
+  },
+  {
+    "title": "Galaxy S27 Pro has Ultra\u2019s design as leak reveals just how much smaller it is [Gallery]",
+    "genre": "GADGETS_HARDWARE",
+    "timestamp": "2026-08-27T21:01:50.058561"
+  }
+]

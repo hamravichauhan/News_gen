@@ -1,0 +1,169 @@
+[
+    {
+        "id": "eg_large_language_model",
+        "category": "AI MENTAL MODEL",
+        "title": "How Modern LLMs Process and Predict Text",
+        "highlights": [
+            "A large language model (LLM) is an AI model trained on a vast amount of text for natural language processing tasks, especially language generation.",
+            "LLMs can typically generate, summarize, translate, and analyze text in many contexts.",
+            "They are the basis for many modern chatbots, such as ChatGPT, Claude, Gemini, Grok, and DeepSeek."
+        ],
+        "takeaway": "Save this breakdown to keep your system design mental models sharp.",
+        "caption": "How Modern LLMs Process and Predict Text 💡\n\nHere is a quick conceptual breakdown:\n\n1. A large language model (LLM) is an AI model trained on a vast amount of text for natural language processing tasks, especially language generation.\n2. LLMs can typically generate, summarize, translate, and analyze text in many contexts.\n3. They are the basis for many modern chatbots, such as ChatGPT, Claude, Gemini, Grok, and DeepSeek.\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this cheat sheet so you can revisit the concept later.\n\nFollow @extrovernerd for daily tech breakdowns, system design models, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience"
+    },
+    {
+        "id": "eg_unified_payments_interface",
+        "category": "SYSTEM DESIGN",
+        "title": "How High-Throughput UPI Payment Rails Work",
+        "highlights": [
+            "The interface facilitates inter-bank peer-to-peer (P2P) and person-to-merchant (P2M) transactions.",
+            "It is used on mobile devices to instantly transfer funds between two bank accounts using only a unique UPI ID.",
+            "Major Indian banks started making their UPI-enabled apps available to customers in August 2016, and the system is today supported by almost all Indian banks."
+        ],
+        "takeaway": "Save this breakdown to keep your system design mental models sharp.",
+        "caption": "How High-Throughput UPI Payment Rails Work 💡\n\nHere is a quick conceptual breakdown:\n\n1. The interface facilitates inter-bank peer-to-peer (P2P) and person-to-merchant (P2M) transactions.\n2. It is used on mobile devices to instantly transfer funds between two bank accounts using only a unique UPI ID.\n3. Major Indian banks started making their UPI-enabled apps available to customers in August 2016, and the system is today supported by almost all Indian banks.\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this cheat sheet so you can revisit the concept later.\n\nFollow @extrovernerd for daily tech breakdowns, system design models, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience"
+    },
+    {
+        "id": "eg_git_software",
+        "category": "DEV CHEAT SHEET",
+        "title": "Core Git Mechanics Every Developer Relies On",
+        "highlights": [
+            "Git is a distributed version control software system that is capable of managing versions of source code or data.",
+            "It is often used to control source code by programmers who are developing software collaboratively.",
+            "It was originally created by Linus Torvalds for version control in the development of the Linux kernel."
+        ],
+        "takeaway": "Save this breakdown to keep your system design mental models sharp.",
+        "caption": "Core Git Mechanics Every Developer Relies On 💡\n\nHere is a quick conceptual breakdown:\n\n1. Git is a distributed version control software system that is capable of managing versions of source code or data.\n2. It is often used to control source code by programmers who are developing software collaboratively.\n3. It was originally created by Linus Torvalds for version control in the development of the Linux kernel.\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this cheat sheet so you can revisit the concept later.\n\nFollow @extrovernerd for daily tech breakdowns, system design models, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience"
+    },
+    {
+        "id": "eg_public_key_cryptography",
+        "category": "CYBERSECURITY",
+        "title": "Asymmetric Encryption: How RSA & Keys Protect Data",
+        "highlights": [
+            "Public-key cryptography, or asymmetric cryptography, is the field of cryptographic systems that use pairs of related keys.",
+            "Each key pair consists of a public key and a corresponding private key.",
+            "Key pairs are generated with algorithms based on mathematical problems termed one-way functions.",
+            "Security of public-key cryptography depends on keeping the private key secret; the public key can be openly distributed without compromising security."
+        ],
+        "takeaway": "Save this breakdown to keep your system design mental models sharp.",
+        "caption": "Asymmetric Encryption: How RSA & Keys Protect Data 💡\n\nHere is a quick conceptual breakdown:\n\n1. Public-key cryptography, or asymmetric cryptography, is the field of cryptographic systems that use pairs of related keys.\n2. Each key pair consists of a public key and a corresponding private key.\n3. Key pairs are generated with algorithms based on mathematical problems termed one-way functions.\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this cheat sheet so you can revisit the concept later.\n\nFollow @extrovernerd for daily tech breakdowns, system design models, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience"
+    },
+    {
+        "id": "eg_websockets",
+        "category": "SYSTEM DESIGN",
+        "title": "Bi-Directional Full-Duplex Network Architecture",
+        "highlights": [
+            "WebSocket is a computer communications protocol, providing a bidirectional communication channel over a single Transmission Control Protocol (TCP) connection.",
+            "The protocol was standardized by the IETF as RFC 6455 in 2011.",
+            "The current specification allowing web applications to use this protocol is known as WebSockets.",
+            "It is a living standard maintained by the WHATWG and a successor to The WebSocket API from the W3C."
+        ],
+        "takeaway": "Save this breakdown to keep your system design mental models sharp.",
+        "caption": "Bi-Directional Full-Duplex Network Architecture 💡\n\nHere is a quick conceptual breakdown:\n\n1. WebSocket is a computer communications protocol, providing a bidirectional communication channel over a single Transmission Control Protocol (TCP) connection.\n2. The protocol was standardized by the IETF as RFC 6455 in 2011.\n3. The current specification allowing web applications to use this protocol is known as WebSockets.\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this cheat sheet so you can revisit the concept later.\n\nFollow @extrovernerd for daily tech breakdowns, system design models, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience"
+    },
+    {
+        "id": "gh_build-your-own-x",
+        "category": "DEV TOOLKIT",
+        "title": "Top Rising Open-Source Repo: build-your-own-x",
+        "highlights": [
+            "Description: Master programming by recreating your favorite technologies from scratch.",
+            "Stars: Over 543,141 developers building on it.",
+            "Primary Language: Markdown",
+            "Bookmark this library for your next project architecture."
+        ],
+        "takeaway": "Save this repository for your developer stack reference.",
+        "caption": "⚡ Rising Developer Tool: build-your-own-x\n\nMaster programming by recreating your favorite technologies from scratch.\n\n• Stars: 543,141\n• Language: Markdown\n• Repository: https://github.com/codecrafters-io/build-your-own-x\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to add to your toolkit.\n\nFollow @extrovernerd for curated open-source tools and cheat sheets."
+    },
+    {
+        "id": "gh_awesome",
+        "category": "DEV TOOLKIT",
+        "title": "Top Rising Open-Source Repo: awesome",
+        "highlights": [
+            "Description: 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chanc",
+            "Stars: Over 500,143 developers building on it.",
+            "Primary Language: None",
+            "Bookmark this library for your next project architecture."
+        ],
+        "takeaway": "Save this repository for your developer stack reference.",
+        "caption": "⚡ Rising Developer Tool: awesome\n\n😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]\n\n• Stars: 500,143\n• Language: None\n• Repository: https://github.com/sindresorhus/awesome\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to add to your toolkit.\n\nFollow @extrovernerd for curated open-source tools and cheat sheets."
+    },
+    {
+        "id": "gh_public-apis",
+        "category": "DEV TOOLKIT",
+        "title": "Top Rising Open-Source Repo: public-apis",
+        "highlights": [
+            "Description: A collective list of free APIs",
+            "Stars: Over 470,889 developers building on it.",
+            "Primary Language: Python",
+            "Bookmark this library for your next project architecture."
+        ],
+        "takeaway": "Save this repository for your developer stack reference.",
+        "caption": "⚡ Rising Developer Tool: public-apis\n\nA collective list of free APIs\n\n• Stars: 470,889\n• Language: Python\n• Repository: https://github.com/public-apis/public-apis\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to add to your toolkit.\n\nFollow @extrovernerd for curated open-source tools and cheat sheets."
+    },
+    {
+        "id": "gh_freecodecamp",
+        "category": "DEV TOOLKIT",
+        "title": "Top Rising Open-Source Repo: freeCodeCamp",
+        "highlights": [
+            "Description: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+            "Stars: Over 454,626 developers building on it.",
+            "Primary Language: TypeScript",
+            "Bookmark this library for your next project architecture."
+        ],
+        "takeaway": "Save this repository for your developer stack reference.",
+        "caption": "⚡ Rising Developer Tool: freeCodeCamp\n\nfreeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.\n\n• Stars: 454,626\n• Language: TypeScript\n• Repository: https://github.com/freeCodeCamp/freeCodeCamp\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to add to your toolkit.\n\nFollow @extrovernerd for curated open-source tools and cheat sheets."
+    },
+    {
+        "id": "gh_free-programming-books",
+        "category": "DEV TOOLKIT",
+        "title": "Top Rising Open-Source Repo: free-programming-books",
+        "highlights": [
+            "Description: :books: Freely available programming books",
+            "Stars: Over 395,266 developers building on it.",
+            "Primary Language: Python",
+            "Bookmark this library for your next project architecture."
+        ],
+        "takeaway": "Save this repository for your developer stack reference.",
+        "caption": "⚡ Rising Developer Tool: free-programming-books\n\n:books: Freely available programming books\n\n• Stars: 395,266\n• Language: Python\n• Repository: https://github.com/EbookFoundation/free-programming-books\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to add to your toolkit.\n\nFollow @extrovernerd for curated open-source tools and cheat sheets."
+    },
+    {
+        "id": "evg_woman",
+        "category": "TECH CONCEPT",
+        "title": "How It Works: Woman",
+        "description": "Female adult human",
+        "highlights": [
+            "A woman is an adult female human.",
+            "Before adulthood, a female child or adolescent is referred to as a girl."
+        ],
+        "image_path": "/Users/ravichauhan/Desktop/MY RROJECT /MEME/MEME/downloads/evg_woman.jpg",
+        "source": "Open Encyclopedia & Lab Research",
+        "caption": "How does Woman actually work? 💡\n\nFemale adult human\n\n━━━━━━━━━━━━━━━━━━━━━\nKey Mental Model:\n• A woman is an adult female human.\n• Before adulthood, a female child or adolescent is referred to as a girl.\n\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to your tech & system design collection.\n\nFollow @extrovernerd for clean breakdowns, developer toolkits, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience #STEM"
+    },
+    {
+        "id": "evg_neural_network",
+        "category": "TECH CONCEPT",
+        "title": "How It Works: Neural network",
+        "description": "Structure in biology and artificial intelligence",
+        "highlights": [
+            "A neural network is a group of interconnected units called neurons that send signals to one another.",
+            "Neurons can be either biological cells or mathematical models.",
+            "While individual neurons are simple, many of them together in a network can perform complex tasks."
+        ],
+        "image_path": "/Users/ravichauhan/Desktop/MY RROJECT /MEME/MEME/downloads/evg_neural_network.jpg",
+        "source": "Open Encyclopedia & Lab Research",
+        "caption": "How does Neural network actually work? 💡\n\nStructure in biology and artificial intelligence\n\n━━━━━━━━━━━━━━━━━━━━━\nKey Mental Model:\n• A neural network is a group of interconnected units called neurons that send signals to one another.\n• Neurons can be either biological cells or mathematical models.\n• While individual neurons are simple, many of them together in a network can perform complex tasks.\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to your tech & system design collection.\n\nFollow @extrovernerd for clean breakdowns, developer toolkits, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience #STEM"
+    },
+    {
+        "id": "evg_cybersecurity",
+        "category": "TECH CONCEPT",
+        "title": "How It Works: Computer security",
+        "description": "Protection of computer systems from information disclosure, theft or damage",
+        "highlights": [
+            "Computer security is a subdiscipline within the field of information security.",
+            "It focuses on protecting computer software, systems, and networks from threats that can lead to unauthorized information disclosure, theft, or damage to hardware, software, or data, as well as to the disruption or misdirection of the services they provide."
+        ],
+        "image_path": "/Users/ravichauhan/Desktop/MY RROJECT /MEME/MEME/downloads/evg_cybersecurity.jpg",
+        "source": "Open Encyclopedia & Lab Research",
+        "caption": "How does Computer security actually work? 💡\n\nProtection of computer systems from information disclosure, theft or damage\n\n━━━━━━━━━━━━━━━━━━━━━\nKey Mental Model:\n• Computer security is a subdiscipline within the field of information security.\n• It focuses on protecting computer software, systems, and networks from threats that can lead to unauthorized information disclosure, theft, or damage to hardware, software, or data, as well as to the disruption or misdirection of the services they provide.\n\n\n━━━━━━━━━━━━━━━━━━━━━\nSave this post to your tech & system design collection.\n\nFollow @extrovernerd for clean breakdowns, developer toolkits, and nerd culture.\n\n.\n.\n.\n#extrovernerd #TechEducation #SystemDesign #CheatSheet #Developers #ComputerScience #STEM"
+    }
+]
