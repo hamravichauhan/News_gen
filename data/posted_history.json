@@ -1,155 +1,5 @@
 [
   {
-    "title": "XPENG IRON humanoid robot draws record physical AI funding",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:30.645610"
-  },
-  {
-    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:31.065046"
-  },
-  {
-    "title": "MIT AI forecasts extreme weather without historical data",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:31.483166"
-  },
-  {
-    "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:31.900695"
-  },
-  {
-    "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:32.243062"
-  },
-  {
-    "title": "A quarter of Nvidia\u2019s business next year comes from labs it is financing",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:32.649490"
-  },
-  {
-    "title": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:33.064619"
-  },
-  {
-    "title": "Alibaba\u2019s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:33.411563"
-  },
-  {
-    "title": "The Sky Turns Above Paranal",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:34.236243"
-  },
-  {
-    "title": "When agents act on their own, governance has to live in the data layer",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-28T06:14:34.693438"
-  },
-  {
-    "title": "Abu Dhabi royal backs 49% stake in Trump-linked crypto bank venture: WSJ",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:09.015843"
-  },
-  {
-    "title": "Madras High Court orders notices to M.K. Stalin, DMK IT Wing in \u20b91-crore defamation suit filed by Minister Aadhav Arjuna",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:09.385763"
-  },
-  {
-    "title": "The Sandbox pledges 1:1 repayment after $700K bridge exploit",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:09.767108"
-  },
-  {
-    "title": "8 New TV Shows to Watch This Weekend on Netflix, Apple TV, and Hulu (August 28-30)",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:10.271586"
-  },
-  {
-    "title": "What we know after the big Grand Theft Auto 6 preview",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:10.857290"
-  },
-  {
-    "title": "ESDS\u2019 IPO Litmus Test, Even Axes 350 Jobs & More",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:11.211601"
-  },
-  {
-    "title": "IPO-Bound ESDS Software Bags \u20b9216 Cr From Anchor Investors",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:11.577927"
-  },
-  {
-    "title": "Alpha Wave Ventures Exits Aye Finance Via \u20b9323 Cr Bulk Deals",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:11.949048"
-  },
-  {
-    "title": "Ashish Kacholia-Backed Sanlayan Turns Profitable In FY26, Revenue Surges 5.7X To \u20b9125 Cr",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:12.342407"
-  },
-  {
-    "title": "Bitcoin under $80,000, solana leads majors higher before Warsh's Jackson Hole debut",
-    "genre": "ALL",
-    "timestamp": "2026-08-28T06:21:12.688968"
-  },
-  {
-    "title": "China\u2019s Success Is Forcing a U.S. AI Rethink",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:37.680055"
-  },
-  {
-    "title": "AI, Scams, the Law, and Governance: A Conversation With David Tan",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:38.232287"
-  },
-  {
-    "title": "The Tibet-Nepal Flood Is a Himalayan Climate Security Warning",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:38.797849"
-  },
-  {
-    "title": "Rahul Gandhi Ushers a New Style of Youth-Centric Politics in India",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:39.350724"
-  },
-  {
-    "title": "Nepal\u2019s \u2018Himalayan Tsunami\u2019 Is a Warning for the Whole Region",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:39.912777"
-  },
-  {
-    "title": "SCO at 25: Institutionalizing Coexistence Without Convergence",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:40.482349"
-  },
-  {
-    "title": "'High risk' of lake breaching and causing second flood, warns China",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:41.020009"
-  },
-  {
-    "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:41.561101"
-  },
-  {
-    "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:42.103391"
-  },
-  {
-    "title": "Trump signs order to rename Lake Ontario as Lake America",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-28T06:25:42.639197"
-  },
-  {
     "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
     "genre": "ALL",
     "timestamp": "2026-08-28T14:56:28.360305"
@@ -698,5 +548,55 @@
     "title": "Iceland\u2019s EU Ambitions",
     "genre": "GEOPOLITICS",
     "timestamp": "2026-08-30T05:11:24.763655"
+  },
+  {
+    "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:40.875694"
+  },
+  {
+    "title": "Roman Space Telescope launch today: Livestream details, when to watch",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:41.199889"
+  },
+  {
+    "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:41.531432"
+  },
+  {
+    "title": "IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Know \ud83c\uddee\ud83c\uddf3",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:42.131206"
+  },
+  {
+    "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:42.460754"
+  },
+  {
+    "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:42.762554"
+  },
+  {
+    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:43.304836"
+  },
+  {
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:43.847361"
+  },
+  {
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:44.403656"
+  },
+  {
+    "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
+    "genre": "ALL",
+    "timestamp": "2026-08-30T08:57:44.724868"
   }
 ]
