@@ -1,55 +1,5 @@
 [
   {
-    "title": "Yes, We\u2019re in an AI Bubble. Just Look to 1980s Japan.",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:20.091884"
-  },
-  {
-    "title": "India\u2019s BrahMos at Sea: Implications for South Asian Stability",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:20.646888"
-  },
-  {
-    "title": "Mongolia Hosts COP17, Urging Global Partners to Action on Climate Issues",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:21.211150"
-  },
-  {
-    "title": "Iceland EU referendum on a knife edge as counting continues",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:21.743783"
-  },
-  {
-    "title": "WhatsApp chat used to send cash for crime and extremism",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:22.281366"
-  },
-  {
-    "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:22.817146"
-  },
-  {
-    "title": "Canada installs large Lake Ontario sign in latest jab at US",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:23.354637"
-  },
-  {
-    "title": "Norway's new king remembers 'my dear father' in first speech",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:23.893966"
-  },
-  {
-    "title": "Former Ecuadorian president imprisoned for corruption",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:24.426709"
-  },
-  {
-    "title": "Iceland\u2019s EU Ambitions",
-    "genre": "GEOPOLITICS",
-    "timestamp": "2026-08-30T05:11:24.763655"
-  },
-  {
     "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
     "genre": "ALL",
     "timestamp": "2026-08-30T08:57:40.875694"
@@ -548,5 +498,55 @@
     "title": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
     "genre": "AI_TECH",
     "timestamp": "2026-09-01T04:29:25.143997"
+  },
+  {
+    "title": "Kepler Aerospace Raises $8 Mn To Launch Six Autonomous Surveillance Satellites",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:22.404919"
+  },
+  {
+    "title": "GTA 6 Gets Even More New Screenshots as Rockstar Locks in for November Launch",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:22.776314"
+  },
+  {
+    "title": "OpenAI\u2019s \u2018Trust Us\u2019 TIME cover raises an old warning for AI bulls",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:23.129123"
+  },
+  {
+    "title": "UPI Transactions Rise 4% MoM To Record 24.51 Bn In August",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:23.520370"
+  },
+  {
+    "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:24.163193"
+  },
+  {
+    "title": "Dhoni\u2019s \u20b9100-crore defamation suit: Madras High Court directs Registry to number retired IPS officer\u2019s plea",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:24.509910"
+  },
+  {
+    "title": "Trump Jr's firm leads $1 billion Polymarket raise at $21 billion value: Report",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:24.889615"
+  },
+  {
+    "title": "The Google TV Streamer now costs $50 more",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:25.289344"
+  },
+  {
+    "title": "Chhattisgarh government launches portal to benefit tribal tin collectors",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:25.632933"
+  },
+  {
+    "title": "Shein shares fall in long-awaited stock market debut",
+    "genre": "ALL",
+    "timestamp": "2026-09-01T08:21:26.216177"
   }
 ]
