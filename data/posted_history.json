@@ -1,55 +1,5 @@
 [
   {
-    "title": "Google\u2019s AI note-taking app now allows you to interact with books",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:25.719933"
-  },
-  {
-    "title": "AI helps design new materials that work in the real world",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:26.128356"
-  },
-  {
-    "title": "When AI art has no author: Study finds generated images often can\u2019t be traced to training data",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:26.453463"
-  },
-  {
-    "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:26.732051"
-  },
-  {
-    "title": "I gave an AI agent a production rollback button \u2014 then spent the hackathon trying to trick it into pressing it",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:27.154633"
-  },
-  {
-    "title": "OpenAI&#8217;s executive exodus has one big winner",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:27.434156"
-  },
-  {
-    "title": "Jensen Huang says Nvidia achieved AGI, again \u2014 not that it matters",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:27.719509"
-  },
-  {
-    "title": "When agents act on their own, governance has to live in the data layer",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:28.115962"
-  },
-  {
-    "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:28.387692"
-  },
-  {
-    "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
-    "genre": "AI_TECH",
-    "timestamp": "2026-08-31T07:20:28.687842"
-  },
-  {
     "title": "Cronos halts blockchain after $75 million lending exploit hits lending app Tectonic",
     "genre": "ALL",
     "timestamp": "2026-08-31T09:23:36.265099"
@@ -498,5 +448,55 @@
     "title": "The electronics \u2018under the hood\u2019 of space networking",
     "genre": "ALL",
     "timestamp": "2026-09-01T19:42:43.525973"
+  },
+  {
+    "title": "Eutelsat OneWeb Seeks Urgent Security Nod To Launch Satcom Services In India: Report",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:07.919216"
+  },
+  {
+    "title": "The Ad Break Comes To AI",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:08.243279"
+  },
+  {
+    "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:08.545231"
+  },
+  {
+    "title": "Google needs Hollywood more than the studios need AI",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:08.864868"
+  },
+  {
+    "title": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:09.168257"
+  },
+  {
+    "title": "Oracle To Lay Off Another 3,000 Employees In India: Report",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:09.524106"
+  },
+  {
+    "title": "Modi, Shah, Naidu, Chiranjeevi wish Pawan Kalyan on 55th birthday; PM says he is driving NDA\u2019s governance agenda in Andhra",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:09.828418"
+  },
+  {
+    "title": "InsuranceDekho + RenewBuy: Ankit Agrawal On Making Of A Pan-India Insurance Distribution Giant",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:10.188851"
+  },
+  {
+    "title": "Robinhood's new crypto network is printing cash, and it's sending Arbitrum's token soaring",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:10.483042"
+  },
+  {
+    "title": "Here\u2019s what happened in crypto today",
+    "genre": "ALL",
+    "timestamp": "2026-09-02T07:41:10.848869"
   }
 ]
