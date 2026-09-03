@@ -1,155 +1,5 @@
 [
   {
-    "title": "OpenClaw 2.0 is here: A Crowdsourced update to the AI agent is now live",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:10.395599"
-  },
-  {
-    "title": "E2W Registrations Contract By Over 16% In August; Ola Electric\u2019s Market Share Improves",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:10.710248"
-  },
-  {
-    "title": "Read Tim Cook&#8217;s final message to Apple staff as CEO",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:11.014594"
-  },
-  {
-    "title": "Sony Reveals Live TV on PS5, Free With Ads Starting Today",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:11.258274"
-  },
-  {
-    "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:11.679989"
-  },
-  {
-    "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:11.924006"
-  },
-  {
-    "title": "Ireland bars crypto from new tax-advantaged investment accounts",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:12.173604"
-  },
-  {
-    "title": "Sberbank plans to add ether and USDT as collateral for crypto-backed loans: Report",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:12.436402"
-  },
-  {
-    "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:12.709892"
-  },
-  {
-    "title": "Car owners want tech they can ignore",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T19:44:13.090018"
-  },
-  {
-    "title": "North Korean hackers are moving tens of millions on Hyperliquid as Trump pushes to onshore the crypto platform",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:42:58.662791"
-  },
-  {
-    "title": "I went to the loneliest baseball game on Apple Vision Pro",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:42:59.137879"
-  },
-  {
-    "title": "Phil Schiller is leaving his biggest jobs at Apple",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:42:59.476621"
-  },
-  {
-    "title": "This is your final chance to win an Apple Watch in our Big Guessing Game",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:42:59.761577"
-  },
-  {
-    "title": "Funko reveals first Over the Garden Wall Pop! figures just in time for fall",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:43:00.074236"
-  },
-  {
-    "title": "Tim Cook shares emotional farewell on final day as Apple CEO",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:43:00.770737"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:43:01.021566"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:43:01.302360"
-  },
-  {
-    "title": "51 PwDs in Vizag get three-wheel bikes",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:43:01.544773"
-  },
-  {
-    "title": "Telangana AYUSH doctors call off 28-day strike after Health Minister assures stipend hike",
-    "genre": "ALL",
-    "timestamp": "2026-08-31T21:43:01.790828"
-  },
-  {
-    "title": "XPENG IRON humanoid robot draws record physical AI funding",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:21.692014"
-  },
-  {
-    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:22.129448"
-  },
-  {
-    "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:22.448745"
-  },
-  {
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:22.744835"
-  },
-  {
-    "title": "MIT AI forecasts extreme weather without historical data",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:23.180604"
-  },
-  {
-    "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:23.617963"
-  },
-  {
-    "title": "Google AI Introduces EnvHarness: A Programmable Layer That Turns Static Agent Environments Into Adaptive Training Worlds",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:23.915809"
-  },
-  {
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:24.278790"
-  },
-  {
-    "title": "A quarter of Nvidia\u2019s business next year comes from labs it is financing",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:24.708971"
-  },
-  {
-    "title": "Amazon\u2019s Prime Air autonomous drones to reach 500 US cities",
-    "genre": "AI_TECH",
-    "timestamp": "2026-09-01T04:29:25.143997"
-  },
-  {
     "title": "Kepler Aerospace Raises $8 Mn To Launch Six Autonomous Surveillance Satellites",
     "genre": "ALL",
     "timestamp": "2026-09-01T08:21:22.404919"
@@ -548,5 +398,55 @@
     "title": "OpenAI Astra arrives soon, and the company is already promoting its critical risks",
     "genre": "ALL",
     "timestamp": "2026-09-02T19:34:40.924258"
+  },
+  {
+    "title": "My AI Gateway Added 400ms to Every Request. Here's Where It Went",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:04.031030"
+  },
+  {
+    "title": "Protests in Spain against government's handling of Ceuta migrant crisis",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:04.492320"
+  },
+  {
+    "title": "Adobe Acquires Peak XV-Backed AI Martech Startup Rilo",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:04.835992"
+  },
+  {
+    "title": "Anker\u2019s new MindBase is an AI-powered brain for your smart home",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:05.198929"
+  },
+  {
+    "title": "Uber To Lay Off 200-250 Employees In India Amid Global Restructuring",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:05.572508"
+  },
+  {
+    "title": "DOJ says Hamas crypto seizures reached $560,000 as FBI took over fundraising sites",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:05.892787"
+  },
+  {
+    "title": "Over 600 Unused Voice Lines From Resident Evil 4 Leak Online, Showing That Capcom Intended to Connect the Game to Village",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:06.207108"
+  },
+  {
+    "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:06.686902"
+  },
+  {
+    "title": "US officials work with CrowdStrike to fight malware behind crypto theft",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:07.010910"
+  },
+  {
+    "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+    "genre": "ALL",
+    "timestamp": "2026-09-03T07:50:07.471219"
   }
 ]
