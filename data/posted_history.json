@@ -1,55 +1,5 @@
 [
   {
-    "title": "Rogue AI agents commandeered German website and used it as a messaging board",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:20:58.383182"
-  },
-  {
-    "title": "Data centers become \"killer application\" for new power transformer tech",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:20:58.705681"
-  },
-  {
-    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:20:59.290853"
-  },
-  {
-    "title": "Governor unveils Telangana Journal of Higher Education",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:20:59.602908"
-  },
-  {
-    "title": "OpenAI admits to German wiki \u2018incident\u2019",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:20:59.968022"
-  },
-  {
-    "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:21:00.280142"
-  },
-  {
-    "title": "Google's anti-nausea Motion Assist dots finally rolling out on Android",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:21:00.591577"
-  },
-  {
-    "title": "Star Trek Actor Reveals His Plan for a Perfect James Bond Crossover",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:21:00.974997"
-  },
-  {
-    "title": "How ChatGPT agents with no internet access ended up in Hugging Face",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:21:01.555414"
-  },
-  {
-    "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-    "genre": "ALL",
-    "timestamp": "2026-09-05T16:21:02.147132"
-  },
-  {
     "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
     "genre": "ALL",
     "timestamp": "2026-09-05T18:41:40.297612"
@@ -398,5 +348,55 @@
     "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE \u2014 Public Exploit Released",
     "genre": "ALL",
     "timestamp": "2026-09-07T14:03:26.379951"
+  },
+  {
+    "title": "As Onimusha: Way of the Sword Sells Over 1 Million Day One, Capcom Says It's 'Focusing on Re-Activating IPs That Haven\u2019t Had a New Title Launch Recently'",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:44.716905"
+  },
+  {
+    "title": "U.S-India space ties move from cooperation to co-creation: Ambassador Gor",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:45.075777"
+  },
+  {
+    "title": "AI Adoption Could Create New Competition Risks In Digital Markets: CCI Chief",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:45.467474"
+  },
+  {
+    "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:46.108396"
+  },
+  {
+    "title": "Lilly Wachowski Says 'I'm Kinda Done' With The Matrix, Reveals 'Complicated Situation' With The Matrix 5",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:46.474663"
+  },
+  {
+    "title": "Karnataka High Court orders tech-driven overhaul to manage finance and assets of temples",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:46.847701"
+  },
+  {
+    "title": "Polish prosecutors charge fifth suspect in a massive crypto probe",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:47.210049"
+  },
+  {
+    "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:47.598790"
+  },
+  {
+    "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:48.241356"
+  },
+  {
+    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+    "genre": "ALL",
+    "timestamp": "2026-09-07T18:27:48.873768"
   }
 ]
