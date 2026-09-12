@@ -1,55 +1,5 @@
 [
   {
-    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:02.181742"
-  },
-  {
-    "title": "Enterprise AI Is Learning To Charge For Work, And Owning The Outcomes Becomes The Contest",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:02.557037"
-  },
-  {
-    "title": "Startups, Small Businesses Will Drive Job Creation In AI Era: Nandan Nilekani",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:02.901658"
-  },
-  {
-    "title": "BIS chief warns AI capex arms race relies on opaque debt, posing systemic risks",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:03.235884"
-  },
-  {
-    "title": "India\u2019s Arya.ag to put grain ownership records on Avalanche",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:03.594454"
-  },
-  {
-    "title": "AI Is Already Better at Coding Than Most Software Developers",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:04.189166"
-  },
-  {
-    "title": "Bitcoin trades near $78,000 as memecoins, small caps lead a broad crypto retreat",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:04.513156"
-  },
-  {
-    "title": "Nasdaq invests $100 million in Kraken parent company Payward at $21 billion valuation",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:04.841745"
-  },
-  {
-    "title": "Indian agri warehouse giant is putting $2 billion in grain-backed loans onchain",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:05.186758"
-  },
-  {
-    "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T12:46:05.503832"
-  },
-  {
     "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
     "genre": "ALL",
     "timestamp": "2026-09-10T17:21:57.613544"
@@ -448,5 +398,55 @@
     "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
     "genre": "ALL",
     "timestamp": "2026-09-12T12:01:06.234654"
+  },
+  {
+    "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:46.708333"
+  },
+  {
+    "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:47.080009"
+  },
+  {
+    "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:47.404155"
+  },
+  {
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:47.942967"
+  },
+  {
+    "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:48.325917"
+  },
+  {
+    "title": "Why AI Keeps Making the Same Coding Mistakes\u2014And How Teaching It Pain Gives It Wisdom",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:48.925386"
+  },
+  {
+    "title": "ESDS Soars 92% To Lead New-Age Tech Stocks This Week, MDR Hopes Lift Fintechs",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:49.283058"
+  },
+  {
+    "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:49.589461"
+  },
+  {
+    "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:49.902871"
+  },
+  {
+    "title": "Record heatwaves in France set to make champagne stronger",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T16:35:50.439967"
   }
 ]
