@@ -1,55 +1,5 @@
 [
   {
-    "title": "NASA Adds Relativity Space\u2019s Terran R to Launch Services Contract",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:38.951851"
-  },
-  {
-    "title": "Suno releases its first AI music model made with record industry help",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:39.301231"
-  },
-  {
-    "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:39.907337"
-  },
-  {
-    "title": "Apple Unveils First Foldable iPhone Duo, Priced \u20b93 Lakh Onwards In India",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:40.264584"
-  },
-  {
-    "title": "US sanctions Xinbi scam marketplace, restrains $52M in crypto",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:40.623862"
-  },
-  {
-    "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:42.705705"
-  },
-  {
-    "title": "Apple hikes price of older iPhones, now more expensive than at launch",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:43.087171"
-  },
-  {
-    "title": "Apple's new boss starts with big gamble on $2,000 first folding iPhone",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:43.625014"
-  },
-  {
-    "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:43.933989"
-  },
-  {
-    "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-    "genre": "ALL",
-    "timestamp": "2026-09-10T07:54:44.248227"
-  },
-  {
     "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
     "genre": "ALL",
     "timestamp": "2026-09-10T12:46:02.181742"
@@ -448,5 +398,55 @@
     "title": "From Pixxel To Swish \u2014 Indian Startups Raised Over $321.9 Mn This Week",
     "genre": "ALL",
     "timestamp": "2026-09-12T07:43:18.419209"
+  },
+  {
+    "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:03.890903"
+  },
+  {
+    "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:04.101986"
+  },
+  {
+    "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:04.313128"
+  },
+  {
+    "title": "Apple AirPods 5 vs. AirPods Pro 3: Which should you buy?",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:04.545181"
+  },
+  {
+    "title": "iPhone 20 rumors: Why Apple may skip iPhone 19 for a radical redesign",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:04.794096"
+  },
+  {
+    "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free \u2014 how to claim",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:05.143071"
+  },
+  {
+    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:05.376099"
+  },
+  {
+    "title": "Uttar Pradesh government seems determined to use Goonda Act as tool of harassment: Allahabad High Court",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:05.617256"
+  },
+  {
+    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:05.852456"
+  },
+  {
+    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+    "genre": "ALL",
+    "timestamp": "2026-09-12T12:01:06.234654"
   }
 ]
