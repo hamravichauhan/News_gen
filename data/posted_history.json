@@ -1,55 +1,5 @@
 [
   {
-    "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:03.890903"
-  },
-  {
-    "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:04.101986"
-  },
-  {
-    "title": "Apple starts preorders for Watch Series 12, Ultra 4 with new Health Sensing System",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:04.313128"
-  },
-  {
-    "title": "Apple AirPods 5 vs. AirPods Pro 3: Which should you buy?",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:04.545181"
-  },
-  {
-    "title": "iPhone 20 rumors: Why Apple may skip iPhone 19 for a radical redesign",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:04.794096"
-  },
-  {
-    "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free \u2014 how to claim",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:05.143071"
-  },
-  {
-    "title": "Help Refine Data from Space Telescopes with Artifact InSPECtor",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:05.376099"
-  },
-  {
-    "title": "Uttar Pradesh government seems determined to use Goonda Act as tool of harassment: Allahabad High Court",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:05.617256"
-  },
-  {
-    "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:05.852456"
-  },
-  {
-    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T12:01:06.234654"
-  },
-  {
     "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
     "genre": "ALL",
     "timestamp": "2026-09-12T16:35:46.708333"
@@ -398,5 +348,55 @@
     "title": "\u2018Rick and Morty\u2019 Creator Dan Harmon Reveals the Complex Leprechaun Lore Invented for His New Show",
     "genre": "ALL",
     "timestamp": "2026-09-14T08:36:42.725097"
+  },
+  {
+    "title": "T-Mobile\u2019s launch offer wipes out the cost of the iPhone 18 Pro over 36 months",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:43.923670"
+  },
+  {
+    "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:44.494426"
+  },
+  {
+    "title": "China criticises idea it is in 'malicious competition' over AI",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:45.032776"
+  },
+  {
+    "title": "Google Picks Four Indian Startups As Part Of AI For The Planet Accelerator",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:45.365722"
+  },
+  {
+    "title": "Consensus heads to Hong Kong for third year with expanded focus on AI",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:45.699043"
+  },
+  {
+    "title": "Microsoft says \u2018people matter more than AI\u2019 following safety concerns",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:46.043455"
+  },
+  {
+    "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:46.583426"
+  },
+  {
+    "title": "EU cyber rules put crypto wallet makers on 24-hour reporting clock",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:46.947223"
+  },
+  {
+    "title": "Dogecoin ETFs struggled for buyers while rival XRP and Solana funds pulled in $3 billion",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:47.295163"
+  },
+  {
+    "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T14:48:47.653603"
   }
 ]
