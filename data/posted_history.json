@@ -1,105 +1,5 @@
 [
   {
-    "title": "India's richest state is exploring tokenizing its own assets to fund new infrastructure",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:31.664037"
-  },
-  {
-    "title": "M83: The Southern Pinwheel",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:32.313452"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:32.639470"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:32.992593"
-  },
-  {
-    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:33.573104"
-  },
-  {
-    "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:34.158590"
-  },
-  {
-    "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:34.697245"
-  },
-  {
-    "title": "Philippine rescuers board ferry 40 hours after blaze began",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:35.230773"
-  },
-  {
-    "title": "GFF 2026: Here Are The New Launches Announced On Day 3",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:35.578359"
-  },
-  {
-    "title": "[Update] RentoMojo IPO Ends With 72.88X Subscription, QIB Portion Booked 177X",
-    "genre": "ALL",
-    "timestamp": "2026-09-11T19:22:35.950089"
-  },
-  {
-    "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:15.110423"
-  },
-  {
-    "title": "18th BRICS Summit 2026: Who are the world leaders attending in New Delhi, India\u2019s role, and more",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:15.426377"
-  },
-  {
-    "title": "Mumbai police arrest three in cyber-fraud network linked to \u20b924 crore, 2,898 SIM cards",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:15.743810"
-  },
-  {
-    "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:16.195243"
-  },
-  {
-    "title": "Apollo 11: Catching Some Sun",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:16.582389"
-  },
-  {
-    "title": "BRICS Summit 2026 | China\u2019s President Xi Jinping arrives in New Delhi",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:16.883188"
-  },
-  {
-    "title": "China Southern Airlines to resume Guangzhou-Delhi flights after 6 years",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:17.186111"
-  },
-  {
-    "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:17.640562"
-  },
-  {
-    "title": "Passenger train derails in France leaving at least 44 injured",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:18.091017"
-  },
-  {
-    "title": "From Pixxel To Swish \u2014 Indian Startups Raised Over $321.9 Mn This Week",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T07:43:18.419209"
-  },
-  {
     "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
     "genre": "ALL",
     "timestamp": "2026-09-12T12:01:03.890903"
@@ -448,5 +348,55 @@
     "title": "Peacock\u2019s Friday the 13th Prequel Is Already Looking Like a Must-Watch",
     "genre": "ALL",
     "timestamp": "2026-09-13T19:08:46.123845"
+  },
+  {
+    "title": "Bitcoin bucks tech selloff as AI safety concerns weigh on stocks",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:38.654203"
+  },
+  {
+    "title": "Crypto\u2019s biggest week ever? Swarm fears prompt AI slowdown: Hodler\u2019s Digest",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:39.126310"
+  },
+  {
+    "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)\ud83e\uddca",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:39.702323"
+  },
+  {
+    "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:40.293753"
+  },
+  {
+    "title": "King Charles to host AI chiefs amid industry call to slow development",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:40.650876"
+  },
+  {
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:41.039672"
+  },
+  {
+    "title": "West Bengal government\u00a0issues closure notice to 252 unaided and unrecognised madrasas",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:41.373830"
+  },
+  {
+    "title": "NASA\u2019s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:41.740170"
+  },
+  {
+    "title": "'Marvel\u2019s Wolverine' Voice Actor Reveals Who Inspired His Take on Logan",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:42.138993"
+  },
+  {
+    "title": "\u2018Rick and Morty\u2019 Creator Dan Harmon Reveals the Complex Leprechaun Lore Invented for His New Show",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T08:36:42.725097"
   }
 ]
