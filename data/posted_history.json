@@ -1,105 +1,5 @@
 [
   {
-    "title": "Ditching bonds for bitcoin: How crypto can tackle the AI-heavy portfolio dilemma",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:46.708333"
-  },
-  {
-    "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:47.080009"
-  },
-  {
-    "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:47.404155"
-  },
-  {
-    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:47.942967"
-  },
-  {
-    "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:48.325917"
-  },
-  {
-    "title": "Why AI Keeps Making the Same Coding Mistakes\u2014And How Teaching It Pain Gives It Wisdom",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:48.925386"
-  },
-  {
-    "title": "ESDS Soars 92% To Lead New-Age Tech Stocks This Week, MDR Hopes Lift Fintechs",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:49.283058"
-  },
-  {
-    "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:49.589461"
-  },
-  {
-    "title": "Apple's iPhone 18 Pro adds variable camera aperture and a more powerful chip",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:49.902871"
-  },
-  {
-    "title": "Record heatwaves in France set to make champagne stronger",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T16:35:50.439967"
-  },
-  {
-    "title": "Level-5 Boss Addresses AI Backlash After Fans Hit Out at Game Reveal Showcase",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:37.015072"
-  },
-  {
-    "title": "Nigel Farage\u2019s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:37.326303"
-  },
-  {
-    "title": "Farage\u2019s Reform UK gets $97M from two crypto billionaires",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:37.665975"
-  },
-  {
-    "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:37.951318"
-  },
-  {
-    "title": "Staked ether should be seen as the benchmark of the decentralized economy",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:38.265604"
-  },
-  {
-    "title": "OpenAI just wants to win",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:38.599258"
-  },
-  {
-    "title": "Nvidia may bankroll Anthropics massive IPO",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:38.991578"
-  },
-  {
-    "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:39.477522"
-  },
-  {
-    "title": "WestBridge-Backed Way2News Restrained From Using AppsForBharat\u2019s Confidential Data",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:39.805199"
-  },
-  {
-    "title": "Zomato Starts Charging Cash-On-Delivery Customers Up To \u20b921 Extra",
-    "genre": "ALL",
-    "timestamp": "2026-09-12T18:53:40.122248"
-  },
-  {
     "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
     "genre": "ALL",
     "timestamp": "2026-09-13T08:02:25.923466"
@@ -398,5 +298,55 @@
     "title": "Symbiosis says recovered 15 BTC from bridge hack, offers 20% bounty",
     "genre": "ALL",
     "timestamp": "2026-09-14T14:48:47.653603"
+  },
+  {
+    "title": "Can Apple\u2019s iOS 27, Siri AI Fuel Its Next Subscription Push?",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:26.733473"
+  },
+  {
+    "title": "Apple releases iOS 27 with Siri AI overhaul",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:27.121507"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:27.708190"
+  },
+  {
+    "title": "Space\u2019s growing billion-dollar club",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:28.010598"
+  },
+  {
+    "title": "Why are AI\u2019s biggest companies suddenly asking to slow down?",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:28.348043"
+  },
+  {
+    "title": "Marvel Tokon: Fighting Souls Director Apologizes for Rough PC Launch and Outlines Upcoming Balance Changes",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:28.737612"
+  },
+  {
+    "title": "What Happens When AI Outgrows the Tests We Use to Measure It?",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:29.326048"
+  },
+  {
+    "title": "Bitmine projects $334M in annual staking revenue from $15.8B crypto treasury",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:29.686447"
+  },
+  {
+    "title": "Apple debuts $129 AirPods 5 with better noise cancellation and transparency mode",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:29.990933"
+  },
+  {
+    "title": "Valve Says RAM Crisis Hasn\u2019t Affected Plans for Steam Deck 2",
+    "genre": "ALL",
+    "timestamp": "2026-09-14T18:56:30.310604"
   }
 ]
