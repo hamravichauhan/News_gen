@@ -1,105 +1,5 @@
 [
   {
-    "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:54.956358"
-  },
-  {
-    "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In September",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:55.249942"
-  },
-  {
-    "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:55.558517"
-  },
-  {
-    "title": "AI Didn't Remove the Engineering Work. It Just Made It Easier to Pretend You Did.",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:56.067093"
-  },
-  {
-    "title": "CCPA Orders Detailed Probe Into Apple Over iOS 18 Software Issues",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:56.387813"
-  },
-  {
-    "title": "A hacker turned 25 cents of bitcoin into 46 billion fake BTC tokens on a DeFi bridge",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:56.661920"
-  },
-  {
-    "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:56.967305"
-  },
-  {
-    "title": "India-U.S. armies begin \u2018Yudh Abhyas\u2019 with focus on technology, interoperability",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:57.256902"
-  },
-  {
-    "title": "What weapon could the US have put into space?",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:57.715833"
-  },
-  {
-    "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T17:48:58.002177"
-  },
-  {
-    "title": "God of War Laufey Now Has a Lot To Prove After Wolverine\u2019s Messy Launch",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:22.073094"
-  },
-  {
-    "title": "How can I prevent my AI coding assistant from repeating fixed mistakes across sessions?",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:22.659644"
-  },
-  {
-    "title": "Power discom is still heavily reliant on Tamil Nadu government\u2019s financial support",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:22.990564"
-  },
-  {
-    "title": "Crypto industry reacts after Clarity Act fails Senate vote",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:23.313934"
-  },
-  {
-    "title": "US House crypto tax package omits mining, staking reward deferral",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:23.673125"
-  },
-  {
-    "title": "This doorbell camera lets a human security guard watch your front door",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:24.027560"
-  },
-  {
-    "title": "NASA\u2019s Webb Reveals Dynamic Panorama of Star Formation",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:24.413260"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:24.739900"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:25.091941"
-  },
-  {
-    "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
-    "genre": "ALL",
-    "timestamp": "2026-09-15T19:56:25.388104"
-  },
-  {
     "title": "AI has been a \u2018net negative\u2019 for crypto: Phemex CEO",
     "genre": "ALL",
     "timestamp": "2026-09-16T08:19:53.097058"
@@ -398,5 +298,55 @@
     "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
     "genre": "ALL",
     "timestamp": "2026-09-17T17:48:19.597222"
+  },
+  {
+    "title": "The AI Superintelligence Slowdown",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:05.299672"
+  },
+  {
+    "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:05.580495"
+  },
+  {
+    "title": "Disha Salian\u2019s father sends \u20b9500-crore defamation notice to Aaditya Thackeray",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:05.840978"
+  },
+  {
+    "title": "Save $30 or more on a refurbished Apple TV 4K",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:06.118633"
+  },
+  {
+    "title": "Inside Europe\u2019s push for space autonomy with Josef Aschbacher",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:06.411744"
+  },
+  {
+    "title": "UK signals end of 'light-touch' era with multi-agency raid on peer-to-peer crypto hubs",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:06.690402"
+  },
+  {
+    "title": "U.S. SEC begins prepping for around-the-clock trading that crypto treats as the norm",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:06.990188"
+  },
+  {
+    "title": "Crypto for Advisors: Beyond bitcoin and ether",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:07.250959"
+  },
+  {
+    "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:07.522486"
+  },
+  {
+    "title": "WisdomTree, MoonPay team up to expand US access to tokenized money market fund",
+    "genre": "ALL",
+    "timestamp": "2026-09-17T19:58:07.826491"
   }
 ]
