@@ -1,55 +1,5 @@
 [
   {
-    "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:24.717717"
-  },
-  {
-    "title": "Aakrit Vaish\u2019s Activate Closes Maiden VC Fund At $105 Mn To Back AI Startups",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:25.308346"
-  },
-  {
-    "title": "Italy investigates government email breach linked to Revolut data leak",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:25.785434"
-  },
-  {
-    "title": "A brief history of AI executives calling for regulation",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:26.150998"
-  },
-  {
-    "title": "Meta is reportedly ready to launch less pervy smart glasses",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:26.542218"
-  },
-  {
-    "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:27.114665"
-  },
-  {
-    "title": "No question of rollback of 0.4% MDR charges on UPI transactions over \u20b92,000: Top government official",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:27.451338"
-  },
-  {
-    "title": "India Accelerator-Backed Finvolve Announces First Close Of Growth Stage Fund At \u20b990 Cr",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:27.802138"
-  },
-  {
-    "title": "Bitcoin Core 32 enters final testing with faster validation, fee changes and security fixes",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:28.139232"
-  },
-  {
-    "title": "\u2018Puja\u2019 scam: Astrologer on run after allegedly duping woman of 329g gold",
-    "genre": "ALL",
-    "timestamp": "2026-09-16T13:13:28.469144"
-  },
-  {
     "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
     "genre": "ALL",
     "timestamp": "2026-09-16T17:47:36.878761"
@@ -398,5 +348,55 @@
     "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
     "genre": "ALL",
     "timestamp": "2026-09-18T12:46:57.321986"
+  },
+  {
+    "title": "Crypto tech provider Haruko hit by cyberattack affecting 15 clients, some funds lost",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:28.991600"
+  },
+  {
+    "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:29.576839"
+  },
+  {
+    "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:30.161821"
+  },
+  {
+    "title": "Call of Duty Maker Activision Says the Video Game Cheat Market Generates $8.5 Billion a Year",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:30.521161"
+  },
+  {
+    "title": "CFTC submits crypto market regulation plan for White House review",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:30.868635"
+  },
+  {
+    "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:31.238582"
+  },
+  {
+    "title": "Gavin Newsom is pushing for an AI kill switch",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:31.906410"
+  },
+  {
+    "title": "What Hollywood thinks about existential AI warnings",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:32.284990"
+  },
+  {
+    "title": "Security researchers used Claude to help them hack into OpenAI",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:32.649672"
+  },
+  {
+    "title": "Banks double on EU MiCA crypto provider list as share hits 23%",
+    "genre": "ALL",
+    "timestamp": "2026-09-18T17:20:33.000564"
   }
 ]
