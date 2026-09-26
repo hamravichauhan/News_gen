@@ -1,55 +1,5 @@
 [
   {
-    "title": "Ema Raises $77 Mn To Scale Its Universal AI Employee Platform Globally",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:42.156503"
-  },
-  {
-    "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:42.508514"
-  },
-  {
-    "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:43.078231"
-  },
-  {
-    "title": "UPI MDR Needed To Fight Cyber Threats With AI: NPCI Chief Dilip Asbe",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:43.451487"
-  },
-  {
-    "title": "Australia says OpenAI agent hacked government site before Altman warning",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:43.811122"
-  },
-  {
-    "title": "Crypto investment firm RockawayX is betting $150 million on yield becoming next big use case",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:44.152335"
-  },
-  {
-    "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:44.510230"
-  },
-  {
-    "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:45.083302"
-  },
-  {
-    "title": "Chennai Corporation prepares DPRs for upgrading 160 km of roads at \u20b9150 crore",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:45.434675"
-  },
-  {
-    "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
-    "genre": "ALL",
-    "timestamp": "2026-09-24T13:20:45.777028"
-  },
-  {
     "title": "Crypto casino Duelbits goes offline after $7 million hot wallet hack",
     "genre": "ALL",
     "timestamp": "2026-09-24T18:01:34.085965"
@@ -448,5 +398,55 @@
     "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
     "genre": "ALL",
     "timestamp": "2026-09-26T12:45:03.586379"
+  },
+  {
+    "title": "IIT-Madras deep tech fund achieves \u20b9450 crore first close",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:30.063840"
+  },
+  {
+    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:30.413287"
+  },
+  {
+    "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:30.669648"
+  },
+  {
+    "title": "If AI Writes the Code and AI Reviews the Code, What Exactly Is the Developer Verifying?",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:31.035859"
+  },
+  {
+    "title": "New-Age Tech Stocks: Insurtech Sell-Off Drags Combined M-Cap Down By $3.6 Bn This Week",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:31.253206"
+  },
+  {
+    "title": "Security lapses at Utah campus where Charlie Kirk was killed, review says",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:31.587777"
+  },
+  {
+    "title": "Kraken\u2019s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:31.786340"
+  },
+  {
+    "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:32.137699"
+  },
+  {
+    "title": "German town bans 'stumbling stone' memorials to Nazi victims",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:32.463805"
+  },
+  {
+    "title": "OpenAI pauses training of its \u2018most capable models\u2019",
+    "genre": "ALL",
+    "timestamp": "2026-09-26T17:27:32.656732"
   }
 ]
