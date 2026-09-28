@@ -1,55 +1,5 @@
 [
   {
-    "title": "Liftoff: Google is realizing Elon Musks dream of AI data centers in space",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:44:59.560412"
-  },
-  {
-    "title": "XbotGo Falcon review: A soccer dads search for the perfect AI sports tracking camera",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:00.088357"
-  },
-  {
-    "title": "IIT Madras, Unicorn India Ventures Mark First Close Of Fund I At \u20b9450 Cr",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:00.410994"
-  },
-  {
-    "title": "Peloton\u2019s newest treadmill folds in half to save space \u2014 and it\u2019s the brands cheapest ever model",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:00.809062"
-  },
-  {
-    "title": "Former Hack VC partner Hsin-Ju Chuang\u2019s death ruled a suicide",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:01.162175"
-  },
-  {
-    "title": "I Built a Better Codex Pet Than OpenAI Did",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:01.743865"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:02.070993"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:02.424315"
-  },
-  {
-    "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:03.012206"
-  },
-  {
-    "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
-    "genre": "ALL",
-    "timestamp": "2026-09-26T12:45:03.586379"
-  },
-  {
     "title": "IIT-Madras deep tech fund achieves \u20b9450 crore first close",
     "genre": "ALL",
     "timestamp": "2026-09-26T17:27:30.063840"
@@ -398,5 +348,55 @@
     "title": "ED Attaches Another \u20b9442 Cr Assets In Gameskraft\u2019s RummyCulture Probe",
     "genre": "ALL",
     "timestamp": "2026-09-28T09:25:27.907536"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:45.691852"
+  },
+  {
+    "title": "Chainlink launches new version of its crypto bridge tech 'CCIP' to give apps more control over their security",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:46.061414"
+  },
+  {
+    "title": "Space is everyone\u2019s business: Economist Enterprise\u2019s 4th annual Space Economy Summit returns to Orlando",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:46.403464"
+  },
+  {
+    "title": "Bitget CEO says $388M hack exploited third-party security vulnerability",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:46.818923"
+  },
+  {
+    "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:47.451367"
+  },
+  {
+    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:48.099631"
+  },
+  {
+    "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:48.467940"
+  },
+  {
+    "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:48.850724"
+  },
+  {
+    "title": "Philips\u2019 motion-tracking smart toothbrush uses AI to make you a better brusher",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:49.233750"
+  },
+  {
+    "title": "YouTube promises custom feeds and a lot more AI later this year",
+    "genre": "ALL",
+    "timestamp": "2026-09-28T16:32:49.851295"
   }
 ]
