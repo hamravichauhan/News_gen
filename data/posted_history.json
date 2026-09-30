@@ -1,55 +1,5 @@
 [
   {
-    "title": "Goldman Sachs brings $100 billion Treasury fund into crypto\u2019s institutional plumbing",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:14.572092"
-  },
-  {
-    "title": "IAM for AI agents: A Practical Enterprise Framework",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:14.919778"
-  },
-  {
-    "title": "OpenAI\u2019s AI agents need to catch up",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:15.123286"
-  },
-  {
-    "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:15.352575"
-  },
-  {
-    "title": "Quavo And Takeoff's 'Hotel Lobby' Performance Transformed In Latest AI Trend",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:15.694480"
-  },
-  {
-    "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:16.052323"
-  },
-  {
-    "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:16.230338"
-  },
-  {
-    "title": "Amazon India FY26 Report Card: Loss Balloons 48% YoY, Revenue Inches Closer To \u20b940,000 Cr",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:16.436597"
-  },
-  {
-    "title": "Crypto PAC spends $11M to oppose Sherrod Brown in Ohio",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:16.636117"
-  },
-  {
-    "title": "Warhammer 40,000: Space Marine 2 Dev Acknowledges That Chaos Is Harder to Fight Than Tyranids, Confirms Plan to Do Something About It",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T20:18:16.849195"
-  },
-  {
     "title": "UAE signals another $25 billion investment in India; eyes ports, energy and space sectors: Goyal",
     "genre": "ALL",
     "timestamp": "2026-09-28T22:22:14.825323"
@@ -448,5 +398,55 @@
     "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
     "genre": "ALL",
     "timestamp": "2026-09-30T18:39:28.938206"
+  },
+  {
+    "title": "Space is everyone\u2019s business: Economist Enterprise\u2019s 4th annual Space Economy Summit returns to Orlando",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:39.070743"
+  },
+  {
+    "title": "The AI Tamagotchis are coming",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:39.681528"
+  },
+  {
+    "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:40.028548"
+  },
+  {
+    "title": "Gemma 4 on Amazon SageMaker: The NVIDIA T4 Decodes at 0.8x of the L4 With the Same Answers",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:40.618946"
+  },
+  {
+    "title": "Clock's ticking: UK's crypto regulatory application window opens with February deadline",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:40.955459"
+  },
+  {
+    "title": "Crypto advocacy group announces picks for US Congress as midterms loom",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:41.292943"
+  },
+  {
+    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:41.880148"
+  },
+  {
+    "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:42.460717"
+  },
+  {
+    "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:43.042960"
+  },
+  {
+    "title": "Did Muse read private texts without permission? Meta says it couldn\u2019t.",
+    "genre": "ALL",
+    "timestamp": "2026-09-30T21:06:43.644658"
   }
 ]
