@@ -1,105 +1,5 @@
 [
   {
-    "title": "UAE signals another $25 billion investment in India; eyes ports, energy and space sectors: Goyal",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:14.825323"
-  },
-  {
-    "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:15.105143"
-  },
-  {
-    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:15.312145"
-  },
-  {
-    "title": "What You Need to Know About NASA\u2019s SpaceX Crew-13 Mission",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:15.508932"
-  },
-  {
-    "title": "Google seemingly confirms plans to kill ChromeOS in 2034",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:15.688401"
-  },
-  {
-    "title": "The Last of Us Day Reveals Ghost of Yotei Collab Content and Ambience Video as Fans Beg Naughty Dog for TLOU 3",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:15.922059"
-  },
-  {
-    "title": "Instagram put a warning on Florence Pughs Cornell 7 post. Why?",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:16.280923"
-  },
-  {
-    "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:16.455789"
-  },
-  {
-    "title": "Space Station View of Earth at Night",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:16.665242"
-  },
-  {
-    "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
-    "genre": "ALL",
-    "timestamp": "2026-09-28T22:22:16.977180"
-  },
-  {
-    "title": "CTO Summit 2026 Agenda: How India\u2019s Tech Leaders Are Rebuilding Products, Teams & Systems For AI Era",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:47.041600"
-  },
-  {
-    "title": "Anthropic plans to spend $518 billion on AI infrastructure. Pre-IPO perps barely blink.",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:47.377009"
-  },
-  {
-    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:47.957807"
-  },
-  {
-    "title": "Home Tech Looks For A Higher Ceiling",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:48.306223"
-  },
-  {
-    "title": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:48.636991"
-  },
-  {
-    "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:49.229726"
-  },
-  {
-    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:49.809493"
-  },
-  {
-    "title": "OpenAI scraps rollout of new model over safety concerns",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:50.348437"
-  },
-  {
-    "title": "Florida seeks a ban on ChatGPT acting like a person",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:50.694485"
-  },
-  {
-    "title": "OpenAI keeps bulldozing mathematicians",
-    "genre": "ALL",
-    "timestamp": "2026-09-29T09:30:51.070580"
-  },
-  {
     "title": "Meta&#8217;s Muse AI sent a YouTuber\u2019s address to a stranger",
     "genre": "ALL",
     "timestamp": "2026-09-29T14:41:08.072861"
@@ -448,5 +348,55 @@
     "title": "Did Muse read private texts without permission? Meta says it couldn\u2019t.",
     "genre": "ALL",
     "timestamp": "2026-09-30T21:06:43.644658"
+  },
+  {
+    "title": "The AI Tamagotchis are coming",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:48:59.719553"
+  },
+  {
+    "title": "Crypto hacks top $768M in September, worst month of 2026",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:48:59.937863"
+  },
+  {
+    "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:00.283128"
+  },
+  {
+    "title": "Ace Combat 8\u2019s Stellar Multiplayer Reveals the Terrors of Live-Service Games",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:00.526159"
+  },
+  {
+    "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:00.864894"
+  },
+  {
+    "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:01.098555"
+  },
+  {
+    "title": "NASA, International Partners Advance Work on Space Crops",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:01.313382"
+  },
+  {
+    "title": "India will always support Sri Lanka\u2019s progress, prosperity: Jaishankar",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:01.509462"
+  },
+  {
+    "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:01.704182"
+  },
+  {
+    "title": "CFTC seeks to define event contracts as swaps amid prediction market fight",
+    "genre": "ALL",
+    "timestamp": "2026-10-01T09:49:01.927530"
   }
 ]
