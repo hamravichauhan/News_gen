@@ -1,105 +1,5 @@
 [
   {
-    "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:40.910100"
-  },
-  {
-    "title": "Here\u2019s how tech leaders will self-police AI safety under Trump\u2019s deal",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:41.467457"
-  },
-  {
-    "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:42.050493"
-  },
-  {
-    "title": "You can text DoorDash&#8217;s AI bot to &#8216;order my usual&#8217; and it will figure the rest out",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:42.415191"
-  },
-  {
-    "title": "Building AI Products For Indian Users: The Challenge Of Scale, Access, And Cost",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:42.747350"
-  },
-  {
-    "title": "How AI Is Helping PhonePe Improve Efficiency & Cut Costs",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:43.079956"
-  },
-  {
-    "title": "Fresh Data, Clear Access Rules: The Foundation For Reliable AI Applications",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:43.416331"
-  },
-  {
-    "title": "AI Is Compressing The Travel-Booking Journey: MakeMyTrip Group CTO",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:43.752088"
-  },
-  {
-    "title": "Beyond Coding: Why AI Makes Systems Thinking More Important For Engineers",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:44.092422"
-  },
-  {
-    "title": "OpenAI, Google and Meta pledge independent AI safety audits under voluntary White House deal",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T14:42:44.438879"
-  },
-  {
-    "title": "Crypto Long & Short: What will the AI agents run on?",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:27.040456"
-  },
-  {
-    "title": "NASA Adds Blue Origin New Glenn 9\u00d74 to Launch Services Contract",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:27.223987"
-  },
-  {
-    "title": "NASA Sets Crew-13 Launch, Docking Coverage",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:27.427608"
-  },
-  {
-    "title": "Reddit says it has to cut back access to &#8216;Old Reddit&#8217; because of AI bots",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:27.620126"
-  },
-  {
-    "title": "Here&#8217;s what AI leaders are saying about Trump\u2019s new safety plan",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:27.915135"
-  },
-  {
-    "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:28.109327"
-  },
-  {
-    "title": "Apple is reportedly preparing a big smart home launch: New smart display, HomePod on the way",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:28.357467"
-  },
-  {
-    "title": "Crypto industry gave $8 million to Clarity Act lobbyists who didn't close the deal",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:28.546695"
-  },
-  {
-    "title": "Singapore crypto activity grows 55% as broader region contracts",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:28.743346"
-  },
-  {
-    "title": "FCA opens crypto authorization window ahead of 2027 UK regime",
-    "genre": "ALL",
-    "timestamp": "2026-09-30T18:39:28.938206"
-  },
-  {
     "title": "Space is everyone\u2019s business: Economist Enterprise\u2019s 4th annual Space Economy Summit returns to Orlando",
     "genre": "ALL",
     "timestamp": "2026-09-30T21:06:39.070743"
@@ -448,5 +348,55 @@
     "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
     "genre": "ALL",
     "timestamp": "2026-10-02T14:32:03.073747"
+  },
+  {
+    "title": "Trump\u2019s potential AI czar, Jay Clayton, helped pioneer the SEC\u2019s crypto crackdown",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:29.832131"
+  },
+  {
+    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:30.418552"
+  },
+  {
+    "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:30.732711"
+  },
+  {
+    "title": "Meta\u2019s Muse AI passes 5 million downloads, breaking records",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:31.433445"
+  },
+  {
+    "title": "Dev Opportunity Radar #19: Hacktoberfest, $20K AI Agent Hackathon, and Pear Prime 2027",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:32.022433"
+  },
+  {
+    "title": "Green Visakha protest against AI data centres",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:32.340290"
+  },
+  {
+    "title": "Spanish PM S\u00e1nchez loses key housing crisis vote after eviction of woman, 87",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:32.884665"
+  },
+  {
+    "title": "Once a $2 billion Ethereum layer-2, Blast is shutting down after assets plunge 98%",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:33.219514"
+  },
+  {
+    "title": "How BorderPlus Is Turning India\u2019s Talent Surplus Into A Global Workforce",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:33.568355"
+  },
+  {
+    "title": "Crypto\u2019s billions are back, but the premiums aren\u2019t",
+    "genre": "ALL",
+    "timestamp": "2026-10-02T18:46:33.910148"
   }
 ]
