@@ -1,105 +1,5 @@
 [
   {
-    "title": "Keralam rebrands IT department to reflect AI, deep-tech push",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:29.952118"
-  },
-  {
-    "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:30.286755"
-  },
-  {
-    "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:30.708587"
-  },
-  {
-    "title": "Resident Evil Dev Capcom Plans To Embrace AI In Game Development",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:31.307056"
-  },
-  {
-    "title": "Commander of U.S. Pacific Command to visit India from October 3",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:31.623860"
-  },
-  {
-    "title": "New-Age Tech Stocks Extend Slide, Turtlemint Slumps Another 20% This Week",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:31.976136"
-  },
-  {
-    "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:32.320131"
-  },
-  {
-    "title": "'Game Changer' Season 9 Will Have \"Unexplainable\" Games, Dropout CEO Sam Reich Reveals",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:32.688248"
-  },
-  {
-    "title": "Apple will replace iPhone 18 Pro Max devices with AT&T connection issues",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:33.008072"
-  },
-  {
-    "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T17:40:33.593497"
-  },
-  {
-    "title": "\u2018AI\u2019s success is based on effective bundling of technology\u00a0with human judgment, leadership,\u00a0execution\u2019",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:37.689376"
-  },
-  {
-    "title": "World Space Week 2026 Celebrates the \u201cRocket Revolution\u201d",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:37.992020"
-  },
-  {
-    "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:38.316658"
-  },
-  {
-    "title": "An OpenAI safety employee has quit and is sounding the alarm",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:38.659249"
-  },
-  {
-    "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:38.978368"
-  },
-  {
-    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:39.515664"
-  },
-  {
-    "title": "Medical plane with 6 on board missing off Massachusetts coast",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:40.052216"
-  },
-  {
-    "title": "IPO-Bound Kuku Technologies Turns Profitable In FY26, Revenue Surges 6X To \u20b91,484 Cr",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:40.416887"
-  },
-  {
-    "title": "FY26 Financial Tracker: Tracking The Financial Performance Of Indian Startups",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:40.763514"
-  },
-  {
-    "title": "AceVector IPO: SoftBank Pockets \u20b988 Cr, Most Selling Shareholders Book Losses",
-    "genre": "ALL",
-    "timestamp": "2026-10-03T19:37:41.118492"
-  },
-  {
     "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
     "genre": "ALL",
     "timestamp": "2026-10-04T09:23:34.434659"
@@ -398,5 +298,55 @@
     "title": "[Update] Snapdeal Parent AceVector Ends Market Debut 18.5% Below Issue Price",
     "genre": "ALL",
     "timestamp": "2026-10-05T16:53:52.740629"
+  },
+  {
+    "title": "All the drama around AI&#8217;s takeover of mathematics",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:54.214551"
+  },
+  {
+    "title": "This startup is issuing AI-generated acne prescriptions",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:54.402047"
+  },
+  {
+    "title": "GG EZ started as AI. Two creators made it human. Does that change anything?",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:54.651420"
+  },
+  {
+    "title": "An AI Cat Clapping Has Become A Big Green Screen Meme On TikTok, Reels",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:54.977772"
+  },
+  {
+    "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:55.170013"
+  },
+  {
+    "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:55.506543"
+  },
+  {
+    "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here\u2019s how it works",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:55.720081"
+  },
+  {
+    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:55.936725"
+  },
+  {
+    "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:56.154638"
+  },
+  {
+    "title": "Nvidia\u2019s Shield TV Pro just got a $100 price hike",
+    "genre": "ALL",
+    "timestamp": "2026-10-05T21:21:56.322002"
   }
 ]
