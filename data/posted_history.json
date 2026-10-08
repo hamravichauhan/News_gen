@@ -1,105 +1,5 @@
 [
   {
-    "title": "RuneScape Dev Pulls Trailer After 6-Fingered Knight Leads to Generative AI Allegations",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:02.617572"
-  },
-  {
-    "title": "World Space Week 2026 Celebrates the \u201cRocket Revolution\u201d",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:02.893786"
-  },
-  {
-    "title": "Crypto PAC announces support for 32 House candidates in US midterms",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:03.185781"
-  },
-  {
-    "title": "The best Prime Day deals under $50: Our favorite budget deals on earbuds, beauty tech, and more",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:03.511576"
-  },
-  {
-    "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:03.792072"
-  },
-  {
-    "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:04.072041"
-  },
-  {
-    "title": "Flipkart Acquires Minority Stake In Travel Tech Startup TravClan To Scale Offerings",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:04.348901"
-  },
-  {
-    "title": "Crypto's campaign arm, Fairshake, sets lists of U.S. House favorites it'll spend on",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:04.634411"
-  },
-  {
-    "title": "FinCEN withdraws proposed crypto mixing rule over \u2018legitimate activity\u2019 concerns",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:04.935146"
-  },
-  {
-    "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-    "genre": "ALL",
-    "timestamp": "2026-10-05T23:02:05.244816"
-  },
-  {
-    "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:15.523186"
-  },
-  {
-    "title": "OpenAI\u2019s \u2018Rogue\u2019 AI Agents Hit Wikimedia, Raise Fresh Oversight Concerns",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:15.854191"
-  },
-  {
-    "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:16.172649"
-  },
-  {
-    "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:16.521504"
-  },
-  {
-    "title": "Solana Foundation targets settlement in seconds with DvP launch",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:16.955616"
-  },
-  {
-    "title": "Founder Salaries Tracker FY26: How Much Did India\u2019s Startup Founders Earn?",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:17.306868"
-  },
-  {
-    "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:17.627899"
-  },
-  {
-    "title": "U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:17.970039"
-  },
-  {
-    "title": "Bitcoin keeps getting rejected at $87,000 as stocks hover near records",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:18.287165"
-  },
-  {
-    "title": "$90 AirPods Pro are live at Amazon \u2014 save over $100 with this stunning October Prime Day Apple deal",
-    "genre": "ALL",
-    "timestamp": "2026-10-06T09:49:18.646366"
-  },
-  {
     "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
     "genre": "ALL",
     "timestamp": "2026-10-06T14:49:44.814611"
@@ -448,5 +348,55 @@
     "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
     "genre": "ALL",
     "timestamp": "2026-10-07T21:43:16.848315"
+  },
+  {
+    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:10.138434"
+  },
+  {
+    "title": "CoreWeave Enters India, Partners AdaniConneX For 240 MW Data Centre Capacity",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:10.461732"
+  },
+  {
+    "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:10.820946"
+  },
+  {
+    "title": "NEAR enters crypto\u2019s top 20 after 140% surge in 30 days",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:11.179933"
+  },
+  {
+    "title": "Meta Took Down 5.3 Mn Pieces Of Child Abuse Content In H1 2026",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:11.506177"
+  },
+  {
+    "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:12.072150"
+  },
+  {
+    "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:12.644801"
+  },
+  {
+    "title": "Standard Chartered plans institutional crypto custody in Singapore",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:13.007438"
+  },
+  {
+    "title": "PM Modi Calls For Global Framework To Tackle Cyber Fraud",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:13.349788"
+  },
+  {
+    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
+    "genre": "ALL",
+    "timestamp": "2026-10-08T10:06:13.677498"
   }
 ]
