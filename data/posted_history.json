@@ -1,105 +1,5 @@
 [
   {
-    "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:46.397509"
-  },
-  {
-    "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:46.742336"
-  },
-  {
-    "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:47.143936"
-  },
-  {
-    "title": "OpenAI to bring in $20 billion less than previously expected",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:47.767287"
-  },
-  {
-    "title": "Feminist orgs claim Meta censoring posts about Cornell 7 case",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:48.290464"
-  },
-  {
-    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:48.871388"
-  },
-  {
-    "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:49.201587"
-  },
-  {
-    "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:49.770563"
-  },
-  {
-    "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren\u2019t sold",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:50.137349"
-  },
-  {
-    "title": "Dungeons & Dragons Is Going to Outer Space With Star Wars: Tyro Squadron, First Look at Official Art",
-    "genre": "ALL",
-    "timestamp": "2026-10-09T21:24:50.504093"
-  },
-  {
-    "title": "Tech chief says EU can fend off rogue AI risk: Report",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:35.812114"
-  },
-  {
-    "title": "My brief romance with an AI bird feeder",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:36.210511"
-  },
-  {
-    "title": "Ukraine\u2019s drones knock out AI data center belonging to \"Russia\u2019s Google\"",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:36.798516"
-  },
-  {
-    "title": "MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:37.114241"
-  },
-  {
-    "title": "GenZ deserves better than undeclared Emer-GenZ: Tharoor slams government",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:37.441697"
-  },
-  {
-    "title": "US country music star Ella Langley cancels show due to 'security threat'",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:37.978870"
-  },
-  {
-    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:38.544782"
-  },
-  {
-    "title": "Amazon\u2019s all-new Kids Tablets ditch Fire OS for parent-managed Google Play \u2014 where to preorder",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:38.979124"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:39.331221"
-  },
-  {
-    "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-    "genre": "ALL",
-    "timestamp": "2026-10-10T09:29:39.895024"
-  },
-  {
     "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
     "genre": "ALL",
     "timestamp": "2026-10-10T14:18:09.382891"
@@ -448,5 +348,55 @@
     "title": "9 Most Haunted Masks in The Legend of Zelda: Majora's Mask, Ranked",
     "genre": "ALL",
     "timestamp": "2026-10-11T20:43:44.695368"
+  },
+  {
+    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:41.180644"
+  },
+  {
+    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:41.549865"
+  },
+  {
+    "title": "Doom 2016 Composer Mick Gordon Says \"F##k AI\"",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:41.867379"
+  },
+  {
+    "title": "Modi government should play by the rules, not misuse power against citizens | The Hindu editorial",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:42.211523"
+  },
+  {
+    "title": "Georgian Language Benchmark: Two Biggest AI Labs Clash in a Language That Doesn't Play by Anyone's Rules",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:42.817272"
+  },
+  {
+    "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:43.169648"
+  },
+  {
+    "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:43.752572"
+  },
+  {
+    "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:44.337505"
+  },
+  {
+    "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:44.910934"
+  },
+  {
+    "title": "This stylish Apple Watch Series 10 is over $100 off at Amazon \u2014 act fast to buy for $679",
+    "genre": "ALL",
+    "timestamp": "2026-10-12T10:18:45.314588"
   }
 ]
