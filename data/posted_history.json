@@ -1,55 +1,5 @@
 [
   {
-    "title": "NASA\u2019s Space X CRS-35 Launch Jellyfish",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:13.089843"
-  },
-  {
-    "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:13.706048"
-  },
-  {
-    "title": "Parallel Loop Raises $6.6 Mn To Integrate AI Into Enterprise Workflows",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:14.102845"
-  },
-  {
-    "title": "Delhi-bound Air India flight issues \u2018squawk\u2019 hijack alert, diverted to Jaipur",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:14.447623"
-  },
-  {
-    "title": "US authorities dismantle crypto scam network that stole tens of millions",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:14.839932"
-  },
-  {
-    "title": "My AI doppelganger tells me what to eat",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:15.215711"
-  },
-  {
-    "title": "\u2018We Vibe Coded a New Epic Games Launcher\u2019 \u2013 Epic\u2019s New Store App Was Built Using AI",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:15.581630"
-  },
-  {
-    "title": "Google poisoning search results for AI scrapers, rank trackers, new report claims",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:16.051214"
-  },
-  {
-    "title": "Jio Platforms Sets Stage For India\u2019s Largest IPO At \u20b910.3 Lakh Cr Valuation",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:16.420093"
-  },
-  {
-    "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T18:13:17.039556"
-  },
-  {
     "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
     "genre": "ALL",
     "timestamp": "2026-10-14T20:23:20.524879"
@@ -448,5 +398,55 @@
     "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
     "genre": "ALL",
     "timestamp": "2026-10-16T17:44:02.578588"
+  },
+  {
+    "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:50.375044"
+  },
+  {
+    "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:50.831104"
+  },
+  {
+    "title": "Chemical leak at dyeing unit leaves 50 people with breathing difficulties in Salem",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:51.104007"
+  },
+  {
+    "title": "The new Apple TV 4K just got its first (very small) discount",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:51.373372"
+  },
+  {
+    "title": "Apple&#8217;s HomeView has an app problem",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:51.651565"
+  },
+  {
+    "title": "India's 'cockroach' party founder detained ahead of protest",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:52.054477"
+  },
+  {
+    "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:52.376167"
+  },
+  {
+    "title": "This wheeled Yeti cooler is perfect for tailgating \u2014 get it on sale for a record-low price on Amazon",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:52.704315"
+  },
+  {
+    "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:53.146932"
+  },
+  {
+    "title": "Why Apple is finally making its own smart home devices",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T19:46:53.815786"
   }
 ]
