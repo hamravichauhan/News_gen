@@ -1,55 +1,5 @@
 [
   {
-    "title": "Battlefield 6 Skins With Way Too Many Pistols and Spelling Errors Spark AI Accusations",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:19.414088"
-  },
-  {
-    "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:19.989510"
-  },
-  {
-    "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:20.567719"
-  },
-  {
-    "title": "AI Fatigue? Yea I know.",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:21.124058"
-  },
-  {
-    "title": "Proposed 31.4% French tax on regulated stablecoins could drive crypto traders offshore",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:21.701254"
-  },
-  {
-    "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:22.056811"
-  },
-  {
-    "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:22.625426"
-  },
-  {
-    "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:23.213672"
-  },
-  {
-    "title": "Apple TV 4K: Where to buy the 4th generation of Apple TV",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:23.556770"
-  },
-  {
-    "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-    "genre": "ALL",
-    "timestamp": "2026-10-14T13:24:24.141567"
-  },
-  {
     "title": "NASA\u2019s Space X CRS-35 Launch Jellyfish",
     "genre": "ALL",
     "timestamp": "2026-10-14T18:13:13.089843"
@@ -448,5 +398,55 @@
     "title": "What Are Your Chances of Surviving Resident Evil Based on Your Tech Job?",
     "genre": "ALL",
     "timestamp": "2026-10-16T13:04:15.024707"
+  },
+  {
+    "title": "Big Tech's AI auditors will only see what they're shown",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:43:58.369917"
+  },
+  {
+    "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:43:58.727780"
+  },
+  {
+    "title": "Rising AI\u2019s Costs Put SaaS Companies Between A Rock And A Hard Place",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:43:59.095120"
+  },
+  {
+    "title": "Meta\u2019s new terms may allow it to train AI on news sites for free",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:43:59.439116"
+  },
+  {
+    "title": "Game Freak Announces End of Beast of Reincarnation\u2019s Post-Launch Updates",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:44:00.022967"
+  },
+  {
+    "title": "Apple, Nvidia lead list of tech companies that donated to Trump\u2019s White House ballroom project",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:44:00.431594"
+  },
+  {
+    "title": "Congrats to the Hacktoberfest Open-Source AI Challenge: Touch Grass Winners!",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:44:01.014806"
+  },
+  {
+    "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:44:01.383834"
+  },
+  {
+    "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:44:01.980164"
+  },
+  {
+    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+    "genre": "ALL",
+    "timestamp": "2026-10-16T17:44:02.578588"
   }
 ]
