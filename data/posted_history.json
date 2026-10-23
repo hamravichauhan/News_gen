@@ -1,55 +1,5 @@
 [
   {
-    "title": "Peak XV-Backed AI Startup Blacksmith Nets $66 Mn At A Unicorn Valuation",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:10.814803"
-  },
-  {
-    "title": "Anthropic\u2019s AI safety bill would pause AI models if 50+ people could die",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:11.423031"
-  },
-  {
-    "title": "Big Tech\u2019s eMudhra fixes may leave crypto bots exposed, CertiK warns",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:11.819263"
-  },
-  {
-    "title": "eMudhra\u2019s Security Key Flaw: What Went Wrong And Why Google, Mozilla Stepped In",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:12.235118"
-  },
-  {
-    "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:12.907556"
-  },
-  {
-    "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:13.250851"
-  },
-  {
-    "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:13.642525"
-  },
-  {
-    "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:14.245655"
-  },
-  {
-    "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:14.678411"
-  },
-  {
-    "title": "Meira Kumar entitled to compensation for land acquired by government, says Patna High Court",
-    "genre": "ALL",
-    "timestamp": "2026-10-21T18:18:15.052027"
-  },
-  {
     "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
     "genre": "ALL",
     "timestamp": "2026-10-21T20:25:42.039913"
@@ -448,5 +398,55 @@
     "title": "Jaishankar meets Azerbaijan President, Foreign Minister as India attempts reset of ties",
     "genre": "ALL",
     "timestamp": "2026-10-23T18:00:39.897372"
+  },
+  {
+    "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:09:59.598301"
+  },
+  {
+    "title": "Bomb threat emails to Mumbai Mayor\u2019s office, three Navi Mumbai schools trigger security alert",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:09:59.953772"
+  },
+  {
+    "title": "Jack Dorsey\u2019s Block made an AI model that talks to you like an awkward new friend",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:00.331347"
+  },
+  {
+    "title": "Mass Effect 5 Pitched as 'John Wick and James Bond' in Space, Report Says",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:00.659956"
+  },
+  {
+    "title": "M.P. receives investment proposals of over \u20b915,400 crore at semiconductor summit",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:00.995123"
+  },
+  {
+    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:01.356704"
+  },
+  {
+    "title": "Summer of Quantum: Building momentum for space-based QKD",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:01.663856"
+  },
+  {
+    "title": "Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:02.032483"
+  },
+  {
+    "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:02.410456"
+  },
+  {
+    "title": "Here\u2019s what happened in crypto today",
+    "genre": "ALL",
+    "timestamp": "2026-10-23T20:10:02.774888"
   }
 ]
