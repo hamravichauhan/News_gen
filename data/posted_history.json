@@ -1,105 +1,5 @@
 [
   {
-    "title": "Dev Opportunity Radar #22: $50K Basis Fellowship, Perplexity AI Research Fellowship, and FC Barcelona Analytics Hackathon",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:09:59.598301"
-  },
-  {
-    "title": "Bomb threat emails to Mumbai Mayor\u2019s office, three Navi Mumbai schools trigger security alert",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:09:59.953772"
-  },
-  {
-    "title": "Jack Dorsey\u2019s Block made an AI model that talks to you like an awkward new friend",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:00.331347"
-  },
-  {
-    "title": "Mass Effect 5 Pitched as 'John Wick and James Bond' in Space, Report Says",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:00.659956"
-  },
-  {
-    "title": "M.P. receives investment proposals of over \u20b915,400 crore at semiconductor summit",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:00.995123"
-  },
-  {
-    "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:01.356704"
-  },
-  {
-    "title": "Summer of Quantum: Building momentum for space-based QKD",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:01.663856"
-  },
-  {
-    "title": "Zetwerk Makes Its Market Debut; Can Scale Alone Widen Its Thin Margins?",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:02.032483"
-  },
-  {
-    "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:02.410456"
-  },
-  {
-    "title": "Here\u2019s what happened in crypto today",
-    "genre": "ALL",
-    "timestamp": "2026-10-23T20:10:02.774888"
-  },
-  {
-    "title": "Hours, Not Weeks: How AI Rewrote the Clock of Software Security",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:15.586003"
-  },
-  {
-    "title": "Sanjay Raut behind AI-generated audio clip, doing Rahul\u2019s bidding: BJP",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:15.856753"
-  },
-  {
-    "title": "OpenAI now trains its frontier AI models with no internet access",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:16.148404"
-  },
-  {
-    "title": "Global Satcom Services Revenues to Reach $145 Billion by 2035",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:16.402145"
-  },
-  {
-    "title": "PM Modi, Vladimir Putin direct officials to expand cooperation, target $100 bn trade by 2030: Envoy",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:16.679200"
-  },
-  {
-    "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:17.146401"
-  },
-  {
-    "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:17.451508"
-  },
-  {
-    "title": "Elon Musk\u2019s dangerous grip on outer space",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:17.756836"
-  },
-  {
-    "title": "Arrest made after fire at Hitler's famed Eagle's Nest retreat",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:18.209212"
-  },
-  {
-    "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-    "genre": "ALL",
-    "timestamp": "2026-10-24T07:55:18.684650"
-  },
-  {
     "title": "Indian Listed New-Age Tech Company Tracker: Market Cap, Revenue & More",
     "genre": "ALL",
     "timestamp": "2026-10-24T12:29:31.099590"
@@ -448,5 +348,55 @@
     "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
     "genre": "ALL",
     "timestamp": "2026-10-25T19:24:16.219970"
+  },
+  {
+    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:44.560767"
+  },
+  {
+    "title": "Unacademy Cofounders Plan \u20b9700 Cr AI, Deeptech Fund",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:44.927912"
+  },
+  {
+    "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:45.498468"
+  },
+  {
+    "title": "Musk warns over 200 AI neoclouds face \u2018guppy-level death\u2019",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:45.854442"
+  },
+  {
+    "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:46.441760"
+  },
+  {
+    "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:46.831320"
+  },
+  {
+    "title": "Slowth Money: a local AI agent for your financial goals",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:47.431569"
+  },
+  {
+    "title": "Sydney Sweeney's New Netflix Sci-Fi Space Epic Gets First Details",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:47.758031"
+  },
+  {
+    "title": "Supreme Court assures no deleted voters will be prosecuted for submitting Form 6",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:48.097811"
+  },
+  {
+    "title": "Rahul Gandhi acquitted in 2018 defamation case over remarks against Amit Shah",
+    "genre": "ALL",
+    "timestamp": "2026-10-26T08:34:48.430055"
   }
 ]
