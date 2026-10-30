@@ -1,55 +1,5 @@
 [
   {
-    "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:07.565391"
-  },
-  {
-    "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:08.173814"
-  },
-  {
-    "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:08.556967"
-  },
-  {
-    "title": "Not the End, but a Shift: How AI Is Pushing Computer Science Toward Deeper Engineering",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:09.205331"
-  },
-  {
-    "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:09.839451"
-  },
-  {
-    "title": "Innodata Lays Off Nearly 550 Employees In India: Report",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:10.197562"
-  },
-  {
-    "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:10.814521"
-  },
-  {
-    "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:11.451221"
-  },
-  {
-    "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:13.011119"
-  },
-  {
-    "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-    "genre": "ALL",
-    "timestamp": "2026-10-28T19:11:13.359648"
-  },
-  {
     "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
     "genre": "ALL",
     "timestamp": "2026-10-28T21:28:12.461044"
@@ -448,5 +398,55 @@
     "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
     "genre": "ALL",
     "timestamp": "2026-10-30T18:55:33.244906"
+  },
+  {
+    "title": "Why is ISRO\u2019s NVS-03 satellite launch crucial? | Explained",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:05.422755"
+  },
+  {
+    "title": "MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:05.664385"
+  },
+  {
+    "title": "The biggest names in AI are backing a new way to opt out of scraping",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:05.941329"
+  },
+  {
+    "title": "Basketheads alert! Wicker 4DX has extended its run",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:06.572860"
+  },
+  {
+    "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:06.969788"
+  },
+  {
+    "title": "RTX 5080 Disappears From Nvidia's Store as Prices Reach $2,000",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:07.209155"
+  },
+  {
+    "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Apple TV (October 30 - November 1)",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:07.449820"
+  },
+  {
+    "title": "The $6.3 billion Binance hack has been linked to North Korean hackers",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:08.022851"
+  },
+  {
+    "title": "Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:08.424819"
+  },
+  {
+    "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+    "genre": "ALL",
+    "timestamp": "2026-10-30T21:16:08.820882"
   }
 ]
