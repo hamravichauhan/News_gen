@@ -1,105 +1,5 @@
 [
   {
-    "title": "Why is ISRO\u2019s NVS-03 satellite launch crucial? | Explained",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:05.422755"
-  },
-  {
-    "title": "MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:05.664385"
-  },
-  {
-    "title": "The biggest names in AI are backing a new way to opt out of scraping",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:05.941329"
-  },
-  {
-    "title": "Basketheads alert! Wicker 4DX has extended its run",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:06.572860"
-  },
-  {
-    "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:06.969788"
-  },
-  {
-    "title": "RTX 5080 Disappears From Nvidia's Store as Prices Reach $2,000",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:07.209155"
-  },
-  {
-    "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Apple TV (October 30 - November 1)",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:07.449820"
-  },
-  {
-    "title": "The $6.3 billion Binance hack has been linked to North Korean hackers",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:08.022851"
-  },
-  {
-    "title": "Four GPUs, One Quantization Ladder: Gemma 4 E2B From a 4 GB Laptop to an NVIDIA L4",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:08.424819"
-  },
-  {
-    "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-    "genre": "ALL",
-    "timestamp": "2026-10-30T21:16:08.820882"
-  },
-  {
-    "title": "Exclusive: upliance.ai In Talks To Raise Up To $4 Mn For R&D, Global Expansion",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:57.422158"
-  },
-  {
-    "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:57.782642"
-  },
-  {
-    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:57.994808"
-  },
-  {
-    "title": "AU SFB Probes Potential Data Leak, Vijay Sales\u2019 Admin Access Allegedly Listed For $25K",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:58.237599"
-  },
-  {
-    "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:58.472681"
-  },
-  {
-    "title": "Costco Reveals Its Full Black Friday Ad and Sale Dates for 2026",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:58.658372"
-  },
-  {
-    "title": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:58.883196"
-  },
-  {
-    "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:59.080320"
-  },
-  {
-    "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:59.285664"
-  },
-  {
-    "title": "Can D-Propulse Help India Reduce Its Dependence On Foreign Missile Engine Technology?",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T09:19:59.531364"
-  },
-  {
     "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
     "genre": "ALL",
     "timestamp": "2026-10-31T14:22:48.485128"
@@ -448,5 +348,55 @@
     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
     "genre": "ALL",
     "timestamp": "2026-11-01T20:55:01.766792"
+  },
+  {
+    "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:06.819997"
+  },
+  {
+    "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:07.196649"
+  },
+  {
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:07.533368"
+  },
+  {
+    "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:08.161913"
+  },
+  {
+    "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:08.766195"
+  },
+  {
+    "title": "Can Indrajaal Build A \u20b9100 Cr Business Protecting India\u2019s Skies?",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:09.222393"
+  },
+  {
+    "title": "UPI Transactions Rise 5.8% MoM To Record 25.47 Bn In October",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:09.596048"
+  },
+  {
+    "title": "Pok\u00e9mon TCG 30th Anniversary Ultra-Premium Collection preorders are live: Shop now for market price",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:09.982077"
+  },
+  {
+    "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:10.598398"
+  },
+  {
+    "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T10:37:11.001621"
   }
 ]
