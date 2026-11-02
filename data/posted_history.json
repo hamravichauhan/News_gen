@@ -1,105 +1,5 @@
 [
   {
-    "title": "I built an AI Tamagotchi before Meta could",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:46.369864"
-  },
-  {
-    "title": "New-Age Tech Stocks Gain This Week Led By Ather & Zetwerk, CarTrade Sinks 22%",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:46.600573"
-  },
-  {
-    "title": "E2W Registrations Rise 2.9% MoM To 2.15 Lakh In October, TVS & Hero Gain Market Share",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:46.845910"
-  },
-  {
-    "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:47.206893"
-  },
-  {
-    "title": "Traders are already placing leveraged bets on Anthropic\u2019s IPO using crypto contracts",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:47.585966"
-  },
-  {
-    "title": "Institutions embrace crypto staking despite shrinking yields",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:47.960413"
-  },
-  {
-    "title": "Here\u2019s what happened in crypto today",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:48.207193"
-  },
-  {
-    "title": "Modi says Opposition has become destructive force; calls for unity",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:48.433783"
-  },
-  {
-    "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:48.733364"
-  },
-  {
-    "title": "Nintendo Reveals Surprise Pikmin Day Direct",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T18:00:48.940893"
-  },
-  {
-    "title": "Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It \ud83d\udc80\ud83d\udd2e",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:27.336068"
-  },
-  {
-    "title": "IIM-Bangalore records 100% summer placements,  with median stipend at \u20b92 lakh per month",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:27.701361"
-  },
-  {
-    "title": "Slovakian couple had come for a holiday to India, man died hours after checking into Conrad",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:28.067719"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:28.427167"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:28.816372"
-  },
-  {
-    "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:29.448692"
-  },
-  {
-    "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:30.076906"
-  },
-  {
-    "title": "Nov. 5: Satellite Mission Management at the Edge",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:30.423243"
-  },
-  {
-    "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:31.006893"
-  },
-  {
-    "title": "IPO-Bound StockGro\u2019s FY26 Profit Jumps 3.3X YoY To \u20b9113 Cr, Revenue Doubles",
-    "genre": "ALL",
-    "timestamp": "2026-10-31T20:22:31.644287"
-  },
-  {
     "title": "Ditch monthly AI bills \u2014 compare answers from ChatGPT, Claude, and more for $30",
     "genre": "ALL",
     "timestamp": "2026-11-01T10:08:04.284095"
@@ -398,5 +298,55 @@
     "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
     "genre": "ALL",
     "timestamp": "2026-11-02T17:56:26.727123"
+  },
+  {
+    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:25.113728"
+  },
+  {
+    "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:25.478492"
+  },
+  {
+    "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:25.848342"
+  },
+  {
+    "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:26.205379"
+  },
+  {
+    "title": "Maharashtra sets up drought mitigation panel, approves \u20b9291.91 crore relief for flood-hit farmers",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:26.536991"
+  },
+  {
+    "title": "Amit Shah backs SIR, alleges 3 crore \u2018illegal infiltrators\u2019 identified in 13 crore deleted voters",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:26.858603"
+  },
+  {
+    "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:27.319963"
+  },
+  {
+    "title": "Meta will end Quest 2 OS updates in 2027",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:27.681984"
+  },
+  {
+    "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:27.996916"
+  },
+  {
+    "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+    "genre": "ALL",
+    "timestamp": "2026-11-02T22:30:28.332984"
   }
 ]
