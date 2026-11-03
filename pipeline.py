@@ -12,7 +12,14 @@ from trend_engine import get_live_search_keywords, get_reddit_trending_posts
 from classifier import verify_and_tag
 from scorer import calculate_virality_score
 from generator import build_cover_card, build_carousel_slide
-from telegram_bot import send_carousel_album
+# from telegram_bot import send_carousel_album  # DISABLED for local testing
+
+# ============================================================
+#  LOCAL TEST MODE FLAG
+#  Set environment variable LOCAL_TEST_MODE=true for local tests.
+#  Defaults to False (production behavior: Telegram + Instagram).
+# ============================================================
+LOCAL_TEST_MODE = os.getenv("LOCAL_TEST_MODE", "false").lower() in ("true", "1")
 
 HISTORY_FILE = os.path.join(DATA_DIR, "posted_history.json")
 
@@ -99,7 +106,7 @@ def has_valid_image(story):
 def purge_local_storage(carousel_folder):
     """Deletes temporary downloads and generated carousel slides after dispatch."""
     print("[*] Cleaning up temporary storage...")
-    
+
     # 1. Delete generated carousel folder
     if os.path.exists(carousel_folder):
         try:
@@ -127,6 +134,9 @@ def run(target_genre=None):
     os.makedirs(carousel_folder, exist_ok=True)
 
     print(f"\n🚀 RUNNING PIPELINE FOR GENRE: [{genre}]")
+    if LOCAL_TEST_MODE:
+        print("🧪 MODE: LOCAL TEST (no Telegram dispatch, no history save, no purge)")
+
     history = load_posted_history()
 
     # 1. Targeted Feed & API Ingestion
@@ -137,7 +147,8 @@ def run(target_genre=None):
     combined = visual_stories + news_stories + reddit_stories
     if not combined:
         print(f"[-] No stories harvested for {genre}.")
-        purge_local_storage(carousel_folder)
+        if not LOCAL_TEST_MODE:
+            purge_local_storage(carousel_folder)
         return
 
     # 2. Tagging & Virality Scoring
@@ -165,23 +176,29 @@ def run(target_genre=None):
 
     if not top_10:
         print("[-] No qualifying stories found.")
-        purge_local_storage(carousel_folder)
+        if not LOCAL_TEST_MODE:
+            purge_local_storage(carousel_folder)
         return
 
-    # 4. Render 11 Carousel Slides
+    # 4. Render 11 Carousel Slides (1 cover + 10 ranked)
     cover_path = os.path.join(carousel_folder, "slide_01_cover.jpg")
     build_cover_card(top_10, date_display, cover_path)
 
     for idx, story in enumerate(top_10, start=1):
         slide_path = os.path.join(carousel_folder, f"slide_{idx+1:02d}_rank_{idx:02d}.jpg")
         build_carousel_slide(story, slide_index=idx, total_slides=len(top_10), output_path=slide_path)
-        history.append({
-            "title": story.get("title", ""),
-            "genre": genre,
-            "timestamp": datetime.now().isoformat()
-        })
 
-    save_posted_history(history)
+        # Only record to history when NOT in local test mode
+        if not LOCAL_TEST_MODE:
+            history.append({
+                "title": story.get("title", ""),
+                "genre": genre,
+                "timestamp": datetime.now().isoformat()
+            })
+
+    # Only persist history when NOT in local test mode
+    if not LOCAL_TEST_MODE:
+        save_posted_history(history)
 
     # 5. Master Caption
     caption_lines = [
@@ -209,11 +226,45 @@ def run(target_genre=None):
     with open(caption_file, "w", encoding="utf-8") as f:
         f.write(caption)
 
-    # 6. Dispatch to Telegram
+    # 6. Dispatch (Telegram) OR Local Save
+    if LOCAL_TEST_MODE:
+        print("\n💾 LOCAL TEST MODE — nothing sent to Telegram.")
+        print(f"📁 Carousel folder : {carousel_folder}")
+        print(f"📝 Caption file    : {caption_file}")
+        try:
+            slide_files = sorted(
+                f for f in os.listdir(carousel_folder)
+                if f.lower().endswith((".jpg", ".jpeg", ".png"))
+            )
+            print(f"🖼️  Slides generated: {len(slide_files)}")
+            for f in slide_files:
+                print(f"     - {f}")
+        except Exception as e:
+            print(f"    [-] Could not list slides: {e}")
+        print("\n✅ Local run complete. Inspect the folder above.")
+        return
+
+    # ---- Production path (only reached when LOCAL_TEST_MODE = False) ----
+    from telegram_bot import send_carousel_album  # lazy import
     dispatch_success = send_carousel_album(carousel_folder, caption_text=caption)
     print(f"✅ Delivered 11-slide [{genre}] carousel directly to Telegram.")
 
-    # 7. Automatic Local Storage Purge
+    # 7. Automatic Instagram Dispatch & Dynamic Bio Update
+    try:
+        from instagram_uploader import upload_carousel_and_update_bio
+        print(f"[*] Dispatching [{genre}] carousel & updating bio on Instagram @extrovertnerd...")
+        ig_success = upload_carousel_and_update_bio(
+            carousel_folder=carousel_folder,
+            caption=caption,
+            genre=genre,
+            max_slides=10,
+        )
+        if ig_success:
+            print("✅ Successfully published to Instagram & updated bio!")
+    except Exception as ig_err:
+        print(f"[-] Instagram dispatch notice: {ig_err}")
+
+    # 8. Automatic Local Storage Purge (production only)
     if dispatch_success:
         purge_local_storage(carousel_folder)
 

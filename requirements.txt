@@ -8,3 +8,4 @@ praw
 lxml
 scikit-learn
 python-dotenv
+instagrapi>=3.2.2

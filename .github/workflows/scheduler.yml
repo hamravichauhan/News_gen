@@ -49,7 +49,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.11"
           cache: "pip"
 
       - name: Install System Fonts & Dependencies
@@ -63,10 +63,14 @@ jobs:
         run: |
           mkdir -p data instagram_posts downloads
 
-      - name: Execute Pipeline & Dispatch to Telegram
+      - name: Execute Pipeline, Dispatch to Telegram & Post to Instagram
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          IG_SESSION_JSON: ${{ secrets.IG_SESSION_JSON }}
+          IG_USERNAME: ${{ secrets.IG_USERNAME }}
+          IG_PASSWORD: ${{ secrets.IG_PASSWORD }}
+          IG_PROXY: ${{ secrets.IG_PROXY }}
           PYTHONUNBUFFERED: "1"
         run: |
           # Priority: Webhook payload genre -> Manual UI input genre -> Default to ALL

@@ -6,3 +6,5 @@ downloads/
 instagram_posts/
 data/*.csv
 .DS_Store
+ig_session.json
+posted_history_ig.json

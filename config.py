@@ -12,7 +12,12 @@ os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 PAGE_HANDLE = "@extrovernerd"
 TRENDS_RSS_INDIA = "https://trends.google.com/trends/trendingsearches/daily/rss?geo=IN"
 
-## Pure, strictly categorized RSS feeds
+# ============================================================
+#  TECH-ONLY, MASS-AUDIENCE RSS FEEDS
+#  Every feed below returns high-resolution lead images in
+#  its RSS <enclosure> or <media:content> tag — Instagram-ready.
+#  Removed: INDIA_POLICY, GEOPOLITICS (off-brand for tech page)
+# ============================================================
 GENRE_FEEDS = {
     "AI_TECH": [
         "https://techcrunch.com/category/artificial-intelligence/feed/",
@@ -20,7 +25,18 @@ GENRE_FEEDS = {
         "https://theverge.com/rss/ai-artificial-intelligence/index.xml",
         "https://www.artificialintelligence-news.com/feed/",
         "https://www.marktechpost.com/feed/",
-        "https://news.mit.edu/rss/topic/artificial-intelligence2"
+        "https://news.mit.edu/rss/topic/artificial-intelligence2",
+        "https://openai.com/blog/rss.xml",
+        "https://blog.google/technology/ai/rss/"
+    ],
+    "GADGETS_HARDWARE": [
+        "https://www.theverge.com/rss/index.xml",
+        "https://arstechnica.com/gadgets/feed/",
+        "https://www.engadget.com/rss.xml",
+        "https://www.tomshardware.com/feeds/all",
+        "https://9to5mac.com/feed/",
+        "https://9to5google.com/feed/",
+        "https://www.gsmarena.com/rss-news-reviews.php3"
     ],
     "DEV_SECURITY": [
         "https://thehackernews.com/feeds/posts/default",
@@ -37,41 +53,6 @@ GENRE_FEEDS = {
         "https://www.space.com/feeds/all",
         "https://arstechnica.com/science/feed/"
     ],
-    "INDIA_POLICY": [
-        "https://www.thehindu.com/news/national/feeder/default.rss",
-        "https://indianexpress.com/section/explained/feed/",
-        "https://www.livemint.com/rss/politics",
-        "https://economictimes.indiatimes.com/news/politics/rssfeeds/17246130.cms"
-    ],
-    "GEOPOLITICS": [
-        "https://feeds.bbci.co.uk/news/world/rss.xml",
-        "https://www.aljazeera.com/xml/rss/all.xml",
-        "https://foreignpolicy.com/feed/",
-        "https://thediplomat.com/feed/",
-        "https://apnews.com/hub/world-news/rss"
-    ],
-    "BUSINESS_STARTUPS": [
-        "https://techcrunch.com/category/startups/feed/",
-        "https://inc42.com/feed/",
-        "https://yourstory.com/feed",
-        "https://www.livemint.com/rss/companies",
-        "https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms",
-        "https://www.bloomberg.com/feed/podcast/technology.xml"
-    ],
-    "CRYPTO_WEB3": [
-        "https://www.coindesk.com/arc/outboundfeeds/rss/",
-        "https://cointelegraph.com/rss",
-        "https://decrypt.co/feed",
-        "https://bitcoinmagazine.com/feed"
-    ],
-    "GADGETS_HARDWARE": [
-        "https://www.theverge.com/rss/index.xml",
-        "https://arstechnica.com/gadgets/feed/",
-        "https://www.engadget.com/rss.xml",
-        "https://www.tomshardware.com/feeds/all",
-        "https://9to5mac.com/feed/",
-        "https://9to5google.com/feed/"
-    ],
     "GAMING_ESPORTS": [
         "https://feeds.feedburner.com/ign/news",
         "https://www.polygon.com/rss/index.xml",
@@ -82,54 +63,107 @@ GENRE_FEEDS = {
         "https://mashable.com/feed",
         "https://knowyourmeme.com/newsfeed.rss",
         "https://www.dailydot.com/feed/"
+    ],
+    "BUSINESS_STARTUPS": [
+        "https://techcrunch.com/category/startups/feed/",
+        "https://inc42.com/feed/",
+        "https://yourstory.com/feed"
+    ],
+    "CRYPTO_WEB3": [
+        "https://www.coindesk.com/arc/outboundfeeds/rss/",
+        "https://cointelegraph.com/rss",
+        "https://decrypt.co/feed"
     ]
 }
 
-# Subreddit mapping
-GENRE_SUBREDDITS = {
-    "AI_TECH": ["MachineLearning", "artificial", "ChatGPT", "singularity"],
-    "DEV_SECURITY": ["programming", "netsec", "cybersecurity", "webdev"],
-    "SPACE_DEEPTECH": ["space", "astronomy", "QuantumComputing"],
-    "INDIA_POLICY": ["india", "IndiaSpeaks", "IndiaTech"],
-    "GEOPOLITICS": ["geopolitics", "worldnews"],
-    "BUSINESS_STARTUPS": ["startups", "Entrepreneur", "business"],
-    "CRYPTO_WEB3": ["CryptoCurrency", "Bitcoin", "ethereum"],
-    "GADGETS_HARDWARE": ["gadgets", "hardware", "technology"],
-    "GAMING_ESPORTS": ["gaming", "Games", "pcgaming", "esports"],
-    "INTERNET_CULTURE": ["InternetIsBeautiful", "interestingasfuck", "technology"],
-    "ALL": ["technology", "worldnews", "space", "gadgets"]
-}
-
-REDDIT_SUBREDDITS = [
-    "technology", "MachineLearning", "artificial", "space", "ProgrammerHumor",
-    "technews", "gadgets", "science", "Futurology", "CyberSecurity",
-    "webdev", "programming", "IndiaTech", "cryptocurrency", "gaming"
+# ============================================================
+#  HIGH-IMAGE-QUALITY FEED WHITELIST
+#  These sources reliably publish 1200px+ lead images in RSS.
+#  Prioritized by scraper.py when ranking visual stories.
+# ============================================================
+HIGH_IMAGE_QUALITY_SOURCES = [
+    "techcrunch.com",
+    "theverge.com",
+    "engadget.com",
+    "arstechnica.com",
+    "venturebeat.com",
+    "9to5mac.com",
+    "9to5google.com",
+    "gsmarena.com",
+    "tomshardware.com",
+    "space.com",
+    "spacenews.com",
+    "thehackernews.com",
+    "bleepingcomputer.com",
+    "polygon.com",
+    "ign.com",
+    "gamespot.com",
+    "mashable.com",
+    "dailydot.com"
 ]
 
-# Classification taxonomy required by classifier.py
+# ============================================================
+#  SUBREDDIT MAPPING — tech-only, no worldnews/geopolitics
+# ============================================================
+GENRE_SUBREDDITS = {
+    "AI_TECH": ["MachineLearning", "artificial", "ChatGPT", "singularity", "OpenAI"],
+    "DEV_SECURITY": ["programming", "netsec", "cybersecurity", "webdev"],
+    "SPACE_DEEPTECH": ["space", "astronomy", "QuantumComputing"],
+    "GADGETS_HARDWARE": ["gadgets", "hardware", "technology", "Android", "apple"],
+    "GAMING_ESPORTS": ["gaming", "Games", "pcgaming", "esports"],
+    "INTERNET_CULTURE": ["InternetIsBeautiful", "interestingasfuck", "technology"],
+    "BUSINESS_STARTUPS": ["startups", "Entrepreneur"],
+    "CRYPTO_WEB3": ["CryptoCurrency", "Bitcoin", "ethereum"],
+    "ALL": ["technology", "gadgets", "MachineLearning", "artificial",
+            "space", "gaming", "programming"]
+}
+
+# ============================================================
+#  DEFAULT REDDIT POOL — tech-only
+# ============================================================
+REDDIT_SUBREDDITS = [
+    "technology", "MachineLearning", "artificial", "gadgets",
+    "technews", "programming", "webdev", "CyberSecurity",
+    "Android", "apple", "pcgaming", "gaming",
+    "space", "singularity", "OpenAI"
+]
+
+# ============================================================
+#  CLASSIFICATION TAXONOMY — MASS-APPEAL TECH ONLY
+# ============================================================
 CATEGORY_TAXONOMY = {
     "AI & Innovation": [
         "ai", "artificial intelligence", "llm", "gpt", "openai", "deepmind",
         "model", "transformer", "neural", "agent", "robot", "robotics",
-        "machine learning", "claude", "gemini", "anthropic", "nvidia", "gpu"
+        "machine learning", "claude", "gemini", "anthropic", "nvidia", "gpu",
+        "chatgpt", "copilot", "midjourney", "stable diffusion", "sora"
     ],
     "Tech & Web Culture": [
         "google", "apple", "microsoft", "meta", "software", "code", "github",
         "developer", "framework", "linux", "cloud", "aws", "open source",
-        "algorithm", "app", "platform", "privacy", "security", "hacker"
+        "algorithm", "app", "platform", "privacy", "security", "hacker",
+        "iphone", "android", "windows", "macos", "chrome", "browser",
+        "social media", "tiktok", "instagram", "youtube", "x.com", "twitter"
+    ],
+    "Gadgets & Consumer Hardware": [
+        "phone", "smartphone", "laptop", "tablet", "earbuds", "headphones",
+        "smartwatch", "wearable", "gpu", "cpu", "chip", "processor",
+        "samsung", "oneplus", "xiaomi", "pixel", "macbook", "ipad",
+        "review", "launch", "specs", "benchmark", "unboxing"
     ],
     "Space & Deep Tech": [
         "isro", "nasa", "spacex", "space", "moon", "mars", "rocket",
         "satellite", "orbit", "telescope", "quantum", "fusion", "physics",
-        "astronomy", "cosmos", "solar"
+        "astronomy", "cosmos", "solar", "starship", "artemis", "chandrayaan"
     ],
-    "National & Policy": [
-        "india", "government", "parliament", "policy", "cabinet", "ministry",
-        "court", "supreme court", "economy", "gdp", "tax", "rbi", "delhi",
-        "mumbai", "isro", "digital india", "upi"
+    "Gaming & Esports": [
+        "game", "gaming", "playstation", "xbox", "nintendo", "steam",
+        "esports", "valorant", "fortnite", "minecraft", "gta", "console",
+        "pc gaming", "twitch", "streamer", "fps", "rpg"
     ],
-    "Business & Markets": [
-        "startup", "funding", "invest", "market", "stocks", "ipo", "acquisition",
-        "merger", "valuation", "billion", "million", "revenue", "ceo", "layoff"
+    "Business & Consumer Tech": [
+        "startup", "funding", "invest", "ipo", "acquisition", "merger",
+        "valuation", "billion", "million", "revenue", "ceo", "layoff",
+        "tech company", "silicon valley", "venture"
     ]
 }
