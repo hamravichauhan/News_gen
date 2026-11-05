@@ -1,155 +1,5 @@
 [
   {
-    "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:25.113728"
-  },
-  {
-    "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:25.478492"
-  },
-  {
-    "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:25.848342"
-  },
-  {
-    "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:26.205379"
-  },
-  {
-    "title": "Maharashtra sets up drought mitigation panel, approves \u20b9291.91 crore relief for flood-hit farmers",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:26.536991"
-  },
-  {
-    "title": "Amit Shah backs SIR, alleges 3 crore \u2018illegal infiltrators\u2019 identified in 13 crore deleted voters",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:26.858603"
-  },
-  {
-    "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:27.319963"
-  },
-  {
-    "title": "Meta will end Quest 2 OS updates in 2027",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:27.681984"
-  },
-  {
-    "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:27.996916"
-  },
-  {
-    "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T22:30:28.332984"
-  },
-  {
-    "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:12.396799"
-  },
-  {
-    "title": "Apple set an iPhone sales record even without a new standard iPhone",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:12.802129"
-  },
-  {
-    "title": "Happy 65 Years: NASA\u2019s Johnson Space Center Then and Now",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:13.156972"
-  },
-  {
-    "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:13.497850"
-  },
-  {
-    "title": "Apple is \u2018not able to predict\u2019 when it&#8217;ll have enough iPhone Duos to go around",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:13.928107"
-  },
-  {
-    "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:14.472976"
-  },
-  {
-    "title": "How to Expand Reliable, Flexible Access to Space",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:14.802268"
-  },
-  {
-    "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:15.121430"
-  },
-  {
-    "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:15.445079"
-  },
-  {
-    "title": "Big crypto wants the one thing it can\u2019t buy: your vote",
-    "genre": "ALL",
-    "timestamp": "2026-11-02T23:45:15.987578"
-  },
-  {
-    "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:53.204027"
-  },
-  {
-    "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:53.551451"
-  },
-  {
-    "title": "New Star Wars Book Reveals the Surprising '90s Inspiration for an Iconic New Character",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:54.041334"
-  },
-  {
-    "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:54.385053"
-  },
-  {
-    "title": "New Jersey drops Coinbase staking order ahead of crypto\u2019s midterm test",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:54.836997"
-  },
-  {
-    "title": "Nvidia, Costco and Nike join pushback against OKX\u2013ICE tokenized stock plans",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:55.412327"
-  },
-  {
-    "title": "South Korea urges exchanges to boost cold storage after Binance hack",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:55.761324"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:56.098556"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:56.460608"
-  },
-  {
-    "title": "BMW is taking on Tesla\u2019s FSD with urban driver assist starting in 2027",
-    "genre": "ALL",
-    "timestamp": "2026-11-03T05:22:57.806632"
-  },
-  {
     "title": "Apple Logs Record India Revenue, Mac And Services Hit New Highs",
     "genre": "ALL",
     "timestamp": "2026-11-03T10:29:47.362564"
@@ -548,5 +398,55 @@
     "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
     "genre": "ALL",
     "timestamp": "2026-11-04T22:18:27.427471"
+  },
+  {
+    "title": "India warns AI-powered hackers targeting crypto exchanges at \u2018machine speed\u2019",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:13.247559"
+  },
+  {
+    "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:13.785481"
+  },
+  {
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:14.295565"
+  },
+  {
+    "title": "World of Warcraft Forever Launch Live Blog: It's Looking Like a Smooth Blizzard Launch",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:14.582241"
+  },
+  {
+    "title": "CERT-In Flags AI-Driven Cyberattacks On Indian BFSI",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:14.875825"
+  },
+  {
+    "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:15.374021"
+  },
+  {
+    "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:15.907695"
+  },
+  {
+    "title": "South Korea seeks 4th crypto tax delay, targets 2029 start",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:16.221117"
+  },
+  {
+    "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:16.529057"
+  },
+  {
+    "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+    "genre": "ALL",
+    "timestamp": "2026-11-05T10:25:16.851119"
   }
 ]
