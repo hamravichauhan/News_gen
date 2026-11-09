@@ -1,105 +1,5 @@
 [
   {
-    "title": "How tech stocks are performing Friday amid AI slowdown fears",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:51.430852"
-  },
-  {
-    "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:51.949435"
-  },
-  {
-    "title": "Will AI Make Abstractions Obsolete?",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:52.483441"
-  },
-  {
-    "title": "8 New TV Shows to Watch This Weekend on Netflix, HBO, and Apple TV (November 6 - 8)",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:52.785558"
-  },
-  {
-    "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:53.113657"
-  },
-  {
-    "title": "Blizzard Reveals What Made It Finally Pull The Trigger on WoW Forever",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:53.437478"
-  },
-  {
-    "title": "Walmart quietly dropped epic deals ahead of Black Friday: Save on Apple, Ninja, Tonies, and more",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:53.757890"
-  },
-  {
-    "title": "Apple, Meta, Elon Musk\u2019s companies reportedly in the crosshairs of congressional investigation",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:54.042948"
-  },
-  {
-    "title": "Binance hack is \u2018cyber war,\u2019 TRM Labs executive says",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:54.361095"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-11-06T21:53:54.662292"
-  },
-  {
-    "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:14.726250"
-  },
-  {
-    "title": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:15.155842"
-  },
-  {
-    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:15.498404"
-  },
-  {
-    "title": "Our beloved Shark FlexStyle just hit a new record-low price: Save at least 40% during Sephoras Savings Event",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:15.844581"
-  },
-  {
-    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:16.162464"
-  },
-  {
-    "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:16.504570"
-  },
-  {
-    "title": "Early Black Friday Best Buy deals include the Apple Watch Ultra 3 and a $270 Dyson vacuum",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:16.831442"
-  },
-  {
-    "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free: How to qualify",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:17.157867"
-  },
-  {
-    "title": "Suspicious prediction market activity seen before election poll release: NYT",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:17.476863"
-  },
-  {
-    "title": "Citizen reveals limited-edition Doctor Doom watch: Price, specs, and release date",
-    "genre": "ALL",
-    "timestamp": "2026-11-07T09:40:17.800582"
-  },
-  {
     "title": "Why a new report on Anthropic automating AI development is alarming researchers",
     "genre": "ALL",
     "timestamp": "2026-11-07T14:44:11.967146"
@@ -448,5 +348,55 @@
     "title": "MobiKwik To Begin NBFC Operations Within 6 Months Post RBI Clearance",
     "genre": "ALL",
     "timestamp": "2026-11-08T20:55:13.224026"
+  },
+  {
+    "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:32.160757"
+  },
+  {
+    "title": "Denis Villeneuve Praises Human Creativity Over AI Prompts, Almost Announces New Bond",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:32.506415"
+  },
+  {
+    "title": "Jesse Eisenberg Says He 'Experiments With AI' Just to Make Sure It's Not 'Good at Writing' Yet",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:32.861802"
+  },
+  {
+    "title": "Apple might turn Siri AI into an agent next year",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:33.230003"
+  },
+  {
+    "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:33.579335"
+  },
+  {
+    "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:33.902785"
+  },
+  {
+    "title": "Live news: Nvidia slides on CEO allegations as bitcoin hovers just above its 200-day average",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:34.485023"
+  },
+  {
+    "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:35.076436"
+  },
+  {
+    "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:35.685059"
+  },
+  {
+    "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+    "genre": "ALL",
+    "timestamp": "2026-11-09T10:57:36.052131"
   }
 ]
