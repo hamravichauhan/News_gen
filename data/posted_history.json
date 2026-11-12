@@ -1,105 +1,5 @@
 [
   {
-    "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:14.416000"
-  },
-  {
-    "title": "Take-Two 'Enhancing' Technical Defenses and Legal Activities to Combat GTA 6 AI Reverse-Engineering Threat",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:14.864931"
-  },
-  {
-    "title": "OpenAI Deploys Control Room With 35-Second Kill Switch Amid Security Concerns",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:15.207088"
-  },
-  {
-    "title": "Sarvam Ropes In Google Cloud India MD Sashikumar Sreedharan As President & CBO",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:15.593103"
-  },
-  {
-    "title": "The Pok\u00e9mon TCG 30th Celebration Elite Trainer Box is live at Amazon: Shop now for under market price",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:15.955767"
-  },
-  {
-    "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:16.328624"
-  },
-  {
-    "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:16.920364"
-  },
-  {
-    "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:17.516701"
-  },
-  {
-    "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:17.874798"
-  },
-  {
-    "title": "SEBI Clears MakeMyTrip\u2019s India IPO",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T10:49:18.207628"
-  },
-  {
-    "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:01.358196"
-  },
-  {
-    "title": "Froncort.AI Raises $2.3 Mn From Google.org To Expand AI-Based Disease Surveillance",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:01.649690"
-  },
-  {
-    "title": "Ukraine\u2019s fiber-optic drones get squeezed by AI data center demand",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:01.945690"
-  },
-  {
-    "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:02.461958"
-  },
-  {
-    "title": "ShareChat Parent Mohalla Tech\u2019s FY26 Loss Widens 79% To \u20b91,978 Cr, Revenue Inches Past \u20b91,000 Cr Mark",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:02.803671"
-  },
-  {
-    "title": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:03.222627"
-  },
-  {
-    "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:03.500492"
-  },
-  {
-    "title": "Former Bioware Dev Reveals Incredibly Ambitious Pitch for Dragon Age 4",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:03.800513"
-  },
-  {
-    "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:04.314797"
-  },
-  {
-    "title": "Beyond the Alert: The Case for Rich Network Data",
-    "genre": "ALL",
-    "timestamp": "2026-11-10T16:12:04.821179"
-  },
-  {
     "title": "NVIDIA Scandal & AI Selloff In the US: India\u2019s Neocloud Boom Faces Twin Tests",
     "genre": "ALL",
     "timestamp": "2026-11-10T20:38:50.042323"
@@ -448,5 +348,55 @@
     "title": "Lord of the Rings Officially Reveals Gollum\u2019s Replacement",
     "genre": "ALL",
     "timestamp": "2026-11-12T10:41:45.573420"
+  },
+  {
+    "title": "OpenAI Brings API Inference Residency To India To Deepen Enterprise AI Adoption",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:38.584996"
+  },
+  {
+    "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:39.098088"
+  },
+  {
+    "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:39.623180"
+  },
+  {
+    "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:39.926292"
+  },
+  {
+    "title": "I tried Google\u2019s AI glasses and Meta\u2019s finally got real competition",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:40.246276"
+  },
+  {
+    "title": "Pok\u00e9mon Fan Who Spent Thousands of Dollars on AI Tools Upset as Anthropic Finally Begins Crackdown",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:40.537771"
+  },
+  {
+    "title": "The Pok\u00e9mon TCGs Delta Reign Booster Bundle is down to a new record low on Amazon \u2014 save almost $10",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:40.861874"
+  },
+  {
+    "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:41.171039"
+  },
+  {
+    "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:41.496296"
+  },
+  {
+    "title": "The pricey new Apple TV 4K is still the best streamer around",
+    "genre": "ALL",
+    "timestamp": "2026-11-12T16:38:41.821934"
   }
 ]
