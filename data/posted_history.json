@@ -1,55 +1,5 @@
 [
   {
-    "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:06.536847"
-  },
-  {
-    "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:07.066450"
-  },
-  {
-    "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:07.598191"
-  },
-  {
-    "title": "Pay $48 and claim lifetime access to AI apps: How to compare ChatGPT, Claude, and Gemini",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:07.921727"
-  },
-  {
-    "title": "AI, Financial Services, Better Connections: Kunal Shah Outlines Three Priorities For WhatsApp",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:08.233111"
-  },
-  {
-    "title": "Can Indian Startups Win The AI Inference Race?",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:08.552340"
-  },
-  {
-    "title": "ECB warns legislative delays could postpone digital euro launch",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:08.853454"
-  },
-  {
-    "title": "ED Attaches \u20b914 Cr Assets In HashPe Crypto Ponzi Fraud Case",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:09.165614"
-  },
-  {
-    "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:09.480224"
-  },
-  {
-    "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
-    "genre": "ALL",
-    "timestamp": "2026-11-11T10:25:09.792235"
-  },
-  {
     "title": "PS5 Hits 100 Million Units Sold Mark 6 Years After Launch \u2014 Here's How It Compares to Other PlayStation Consoles",
     "genre": "ALL",
     "timestamp": "2026-11-11T15:58:28.140511"
@@ -398,5 +348,55 @@
     "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
     "genre": "ALL",
     "timestamp": "2026-11-12T22:30:24.367958"
+  },
+  {
+    "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:16.172770"
+  },
+  {
+    "title": "AST SpaceMobile presses case for developing own launch vehicle",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:16.771488"
+  },
+  {
+    "title": "AI is getting better. Here is my plan to stay ahead.",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:17.358196"
+  },
+  {
+    "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:17.959397"
+  },
+  {
+    "title": "The Pok\u00e9mon TCG 30th Celebration Elite Trainer Box is live at Amazon: Buy for way under market price",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:18.329531"
+  },
+  {
+    "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:18.947584"
+  },
+  {
+    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:19.591902"
+  },
+  {
+    "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:20.213788"
+  },
+  {
+    "title": "Ola Electric Slides In Q2, NVIDIA CEO Quits & More",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:20.560929"
+  },
+  {
+    "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+    "genre": "ALL",
+    "timestamp": "2026-11-13T10:37:21.142518"
   }
 ]
