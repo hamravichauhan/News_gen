@@ -1,105 +1,5 @@
 [
   {
-    "title": "OpenAI launches ChatGPT Wallet, claiming its a safe way to have AI shop for you",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:34.793013"
-  },
-  {
-    "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:35.114019"
-  },
-  {
-    "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:35.387068"
-  },
-  {
-    "title": "Amazons early Black Friday deal on this Osprey travel backpack drops it to a new record-low price \u2014 save 35%",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:35.703372"
-  },
-  {
-    "title": "Darth Vader's Actual Lightsaber Just Sold for $4.875 Million, Breaking Star Wars Auction Records",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:35.991904"
-  },
-  {
-    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:36.299549"
-  },
-  {
-    "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:36.597897"
-  },
-  {
-    "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:36.902242"
-  },
-  {
-    "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:37.221286"
-  },
-  {
-    "title": "IBM to offer access to a dual-processor quantum system in 2027",
-    "genre": "ALL",
-    "timestamp": "2026-11-13T22:18:37.490798"
-  },
-  {
-    "title": "Send one prompt to 6 AI models and compare their answers with AskAnyModel for $31.99",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:27.715091"
-  },
-  {
-    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:28.233215"
-  },
-  {
-    "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:28.543880"
-  },
-  {
-    "title": "20 Years Ago, the Best Sci-Fi Show of the Century Delivered the Most Epic Space Battle in TV History",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:29.059340"
-  },
-  {
-    "title": "Early Black Friday Garmin deals are hella impressive: Venu 4, Vivoactive 5, and more at record lows",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:29.386092"
-  },
-  {
-    "title": "Apple is shuttering its 28-year-old online community forum",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:29.662982"
-  },
-  {
-    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:30.215343"
-  },
-  {
-    "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:30.745645"
-  },
-  {
-    "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:31.285608"
-  },
-  {
-    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-    "genre": "ALL",
-    "timestamp": "2026-11-14T09:51:31.817888"
-  },
-  {
     "title": "Every GTA 6 Actor Rumored and Confirmed by Rockstar Ahead of Launch",
     "genre": "ALL",
     "timestamp": "2026-11-14T14:50:53.798875"
@@ -448,5 +348,55 @@
     "title": "DroneAcharya Profits Tank 65% YoY To \u20b967 Lakh In H1",
     "genre": "ALL",
     "timestamp": "2026-11-15T21:25:30.532522"
+  },
+  {
+    "title": "AI Avatar v28 (Security Support, Voxel Avatar)\ud83d\udee1\ufe0f",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:41:57.920054"
+  },
+  {
+    "title": "Jio In Talks With ISRO, Skyroot For 1,600-Satellite Constellation: Report",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:41:58.235722"
+  },
+  {
+    "title": "AI Startups To Watch: 5 Startups That Caught Our Eye In November",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:41:58.562452"
+  },
+  {
+    "title": "DBS, JPMorgan\u2019s Kinexys launch 24/7 transfers of tokenized deposits",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:41:58.879332"
+  },
+  {
+    "title": "Apple\u2019s new study looks to improve the effectiveness of AI health tools",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:41:59.229500"
+  },
+  {
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:41:59.714988"
+  },
+  {
+    "title": "upGrad Enters Enterprise Advisory With Launch Of upGrad Next",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:42:00.030907"
+  },
+  {
+    "title": "FOMC minutes, Nvidia earnings, Russia\u2019s retail crypto rules: Crypto Week Ahead",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:42:00.510250"
+  },
+  {
+    "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:42:00.986199"
+  },
+  {
+    "title": "Luxor CEO warns of AI \u2018dark forest\u2019 following Bitcoin miner hijack",
+    "genre": "ALL",
+    "timestamp": "2026-11-16T10:42:01.326028"
   }
 ]
