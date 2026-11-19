@@ -1,55 +1,5 @@
 [
   {
-    "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:19.280683"
-  },
-  {
-    "title": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:20.651808"
-  },
-  {
-    "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:21.234280"
-  },
-  {
-    "title": "German lawmakers back crypto freezes outside criminal cases",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:21.594420"
-  },
-  {
-    "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:21.941426"
-  },
-  {
-    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:22.254281"
-  },
-  {
-    "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:22.851837"
-  },
-  {
-    "title": "Nvidia Reportedly Uninterested in Bringing Jensen Huang Back as CEO",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:23.195661"
-  },
-  {
-    "title": "OpenAI launches tool for finding child sexual abuse material",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:23.518069"
-  },
-  {
-    "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-    "genre": "ALL",
-    "timestamp": "2026-11-17T00:35:24.108588"
-  },
-  {
     "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
     "genre": "ALL",
     "timestamp": "2026-11-17T11:31:09.852838"
@@ -448,5 +398,55 @@
     "title": "Nvidia\u2019s rise, visualized",
     "genre": "ALL",
     "timestamp": "2026-11-18T23:13:57.971089"
+  },
+  {
+    "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:21.260960"
+  },
+  {
+    "title": "GTA 6 Launch Causes Massive Spike in Traffic for Internet Provider Xfinity",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:21.554848"
+  },
+  {
+    "title": "August AI Raises $12 Mn To Expand AI Healthcare Assistant In The US",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:21.884269"
+  },
+  {
+    "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:22.401541"
+  },
+  {
+    "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:22.924068"
+  },
+  {
+    "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:23.446195"
+  },
+  {
+    "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:23.970338"
+  },
+  {
+    "title": "The Pok\u00e9mon TCG 30th Celebration Tech Sticker Collection is back under $40 \u2014 save $10 with this early Black Friday",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:24.309348"
+  },
+  {
+    "title": "The Kindle Scribe Colorsoft has hit a record-low price in Amazons Black Friday sale \u2014 score $200 off",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:24.628338"
+  },
+  {
+    "title": "BTCPay Server issues emergency update for 5 security flaws",
+    "genre": "ALL",
+    "timestamp": "2026-11-19T11:11:24.936964"
   }
 ]
