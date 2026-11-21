@@ -1,55 +1,5 @@
 [
   {
-    "title": "AI Is Supercharging Cyberattacks, But Are Indian Enterprises Ready?",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:54.644542"
-  },
-  {
-    "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:55.094999"
-  },
-  {
-    "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:55.388377"
-  },
-  {
-    "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:55.653691"
-  },
-  {
-    "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:56.079449"
-  },
-  {
-    "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO\u2019s venture capital business, Tribe",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:56.523316"
-  },
-  {
-    "title": "Crypto Long & Short: Crypto exchanges shouldn\u2019t double as the vault",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:56.967638"
-  },
-  {
-    "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:57.405967"
-  },
-  {
-    "title": "Polymarket US takes rapid-fire crypto trading format to oil, natural gas",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:57.690787"
-  },
-  {
-    "title": "Nvidia\u2019s rise, visualized",
-    "genre": "ALL",
-    "timestamp": "2026-11-18T23:13:57.971089"
-  },
-  {
     "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
     "genre": "ALL",
     "timestamp": "2026-11-19T11:11:21.260960"
@@ -448,5 +398,55 @@
     "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
     "genre": "ALL",
     "timestamp": "2026-11-20T22:52:57.952580"
+  },
+  {
+    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:09.396236"
+  },
+  {
+    "title": "The Path to AI Autonomy in the SOC",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:09.901444"
+  },
+  {
+    "title": "Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:10.208128"
+  },
+  {
+    "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:10.492246"
+  },
+  {
+    "title": "The 15 best Black Friday tech deals: MacBooks and Nintendo Switch 2 on sale this weekend",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:10.809693"
+  },
+  {
+    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:11.123548"
+  },
+  {
+    "title": "Google Commits $5 Mn To Sundar Pichai\u2019s Alma Mater IIT Kharagpur",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:11.428200"
+  },
+  {
+    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:11.927970"
+  },
+  {
+    "title": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:12.246269"
+  },
+  {
+    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+    "genre": "ALL",
+    "timestamp": "2026-11-21T10:41:12.765264"
   }
 ]
