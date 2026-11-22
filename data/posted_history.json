@@ -1,55 +1,5 @@
 [
   {
-    "title": "Microsoft CEO explains reason behind the 60,000 buyouts (its AI, of course)",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:15.032105"
-  },
-  {
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:15.278796"
-  },
-  {
-    "title": "How AI is pushing satellites to evolve",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:15.476561"
-  },
-  {
-    "title": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:15.685060"
-  },
-  {
-    "title": "Dont worry, Artificials unsettling AI poster was actually made by a human",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:15.901192"
-  },
-  {
-    "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:16.478791"
-  },
-  {
-    "title": "Just Eat Reveals Gaming Controller With an Extra Button Just for Ordering Food",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:16.681229"
-  },
-  {
-    "title": "You can finally use Google Gemini to control your MacBook",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:16.875827"
-  },
-  {
-    "title": "It shouldn\u2019t be this easy to pedal 25 mph: Specialized\u2019s Turbo Vado 3 Evo",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:17.079599"
-  },
-  {
-    "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-    "genre": "ALL",
-    "timestamp": "2026-11-19T23:21:17.456935"
-  },
-  {
     "title": "BlackRock\u2019s IBIT loses record $541M amid Anthropic market debut",
     "genre": "ALL",
     "timestamp": "2026-11-20T10:57:54.287820"
@@ -448,5 +398,55 @@
     "title": "GTA 6 Triggers Busiest Traffic Day in Comcast History",
     "genre": "ALL",
     "timestamp": "2026-11-21T21:57:46.232787"
+  },
+  {
+    "title": "Google will launch Android app verification requirement globally in January 2027",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:33.371415"
+  },
+  {
+    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:33.911345"
+  },
+  {
+    "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:34.225754"
+  },
+  {
+    "title": "Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:34.546888"
+  },
+  {
+    "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:35.079431"
+  },
+  {
+    "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:35.404271"
+  },
+  {
+    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:35.732188"
+  },
+  {
+    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:36.031021"
+  },
+  {
+    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:36.352599"
+  },
+  {
+    "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
+    "genre": "ALL",
+    "timestamp": "2026-11-22T10:46:36.660196"
   }
 ]
