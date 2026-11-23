@@ -1,105 +1,5 @@
 [
   {
-    "title": "The Path to AI Autonomy in the SOC",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:54.826271"
-  },
-  {
-    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:55.111332"
-  },
-  {
-    "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:55.395981"
-  },
-  {
-    "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:55.785925"
-  },
-  {
-    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:56.156548"
-  },
-  {
-    "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:56.424417"
-  },
-  {
-    "title": "Here\u2019s what happened in crypto today",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:56.698790"
-  },
-  {
-    "title": "Google says it\u2019s going to shut off Google Assistant on smart speakers next year",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:57.284282"
-  },
-  {
-    "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:57.570654"
-  },
-  {
-    "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-    "genre": "ALL",
-    "timestamp": "2026-11-20T22:52:57.952580"
-  },
-  {
-    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:09.396236"
-  },
-  {
-    "title": "The Path to AI Autonomy in the SOC",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:09.901444"
-  },
-  {
-    "title": "Scaler Cofounder Anshuman Singh Unveils AI Training Data Venture Arcfront",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:10.208128"
-  },
-  {
-    "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:10.492246"
-  },
-  {
-    "title": "The 15 best Black Friday tech deals: MacBooks and Nintendo Switch 2 on sale this weekend",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:10.809693"
-  },
-  {
-    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:11.123548"
-  },
-  {
-    "title": "Google Commits $5 Mn To Sundar Pichai\u2019s Alma Mater IIT Kharagpur",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:11.428200"
-  },
-  {
-    "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:11.927970"
-  },
-  {
-    "title": "India Minicorn Tracker: Mapping The Next Wave Of High-Growth Startups",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:12.246269"
-  },
-  {
-    "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-    "genre": "ALL",
-    "timestamp": "2026-11-21T10:41:12.765264"
-  },
-  {
     "title": "Sarvam\u2019s Token Factory Raises India\u2019s AI Inference Stakes",
     "genre": "ALL",
     "timestamp": "2026-11-21T15:57:16.521240"
@@ -448,5 +348,55 @@
     "title": "Content creators can save over $40 on the DJI Mic 3 in Amazons Black Friday sale",
     "genre": "ALL",
     "timestamp": "2026-11-22T22:15:19.961340"
+  },
+  {
+    "title": "Data Security Startup Matters.AI Nets \u20b9115 Cr From Tanglin Venture Partners, Others",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:34.188085"
+  },
+  {
+    "title": "India\u2019s Inference Test, Scaler Founder\u2019s New AI Bet & More",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:34.540094"
+  },
+  {
+    "title": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:35.114073"
+  },
+  {
+    "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:35.722381"
+  },
+  {
+    "title": "Child advocacy groups ask Amazon, eBay to stop selling AI toys",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:36.074642"
+  },
+  {
+    "title": "Sarvam AI Defends Token Factory, Says Homegrown Models Remain Core Focus",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:36.435798"
+  },
+  {
+    "title": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:37.038843"
+  },
+  {
+    "title": "Monuments of India, Part 4: 100 New Monuments, from Harappan Dholavira to the Chenab Rail Bridge",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:37.652263"
+  },
+  {
+    "title": "We haven\u2019t seen the last of the major tech outages",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:38.024715"
+  },
+  {
+    "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+    "genre": "ALL",
+    "timestamp": "2026-11-23T11:52:38.614021"
   }
 ]
