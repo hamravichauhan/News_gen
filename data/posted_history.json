@@ -1,55 +1,5 @@
 [
   {
-    "title": "Google will launch Android app verification requirement globally in January 2027",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:33.371415"
-  },
-  {
-    "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:33.911345"
-  },
-  {
-    "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:34.225754"
-  },
-  {
-    "title": "Budget 2027: Industry Body BWA Seeks Tax Relief For Crypto Startups",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:34.546888"
-  },
-  {
-    "title": "Monuments of India, Part 3: Sixteen Statues Sculpted from Photographs, a Rebuilt Mysore Palace and More",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:35.079431"
-  },
-  {
-    "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:35.404271"
-  },
-  {
-    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:35.732188"
-  },
-  {
-    "title": "Superconducting Qubits Reach 99.9% Quantum Gate Fidelity",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:36.031021"
-  },
-  {
-    "title": "Autonomous Submersibles Map Uncharted Hydrothermal Vents at 4,000m Depth",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:36.352599"
-  },
-  {
-    "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
-    "genre": "ALL",
-    "timestamp": "2026-11-22T10:46:36.660196"
-  },
-  {
     "title": "GTA 6 Parody In Binding of Isaac Used AI Without Creator's Knowledge",
     "genre": "ALL",
     "timestamp": "2026-11-22T16:00:05.017053"
@@ -398,5 +348,55 @@
     "title": "Congress Protests Against Meta\u2019s Content Moderation Practices, Political Bias",
     "genre": "ALL",
     "timestamp": "2026-11-24T03:07:16.500208"
+  },
+  {
+    "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:48.501125"
+  },
+  {
+    "title": "AidenAI Nets $32 Mn To Scale Enterprise AI Workflows",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:48.848103"
+  },
+  {
+    "title": "Sarvam AI Launches Dictation API For English, 22 Indian Languages",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:49.188718"
+  },
+  {
+    "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:49.773766"
+  },
+  {
+    "title": "Grayscale calls Bitcoin \u2018oversold\u2019 at $62K but warns of AI risks",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:50.137904"
+  },
+  {
+    "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:50.732733"
+  },
+  {
+    "title": "Ex-Sequoia Investor Sudhanshu Mishra Launches Agentic AI Startup Demi AI",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:51.100122"
+  },
+  {
+    "title": "Google Cloud Confirms India Job Cuts Amid Restructuring",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:51.436474"
+  },
+  {
+    "title": "Google wants to make you the star of your own AI slop movies",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:51.783236"
+  },
+  {
+    "title": "Bitcoin\u2019s drop to $55,000 left a record 11.6 million BTC underwater",
+    "genre": "ALL",
+    "timestamp": "2026-11-24T13:19:52.351302"
   }
 ]
