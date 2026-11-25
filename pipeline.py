@@ -257,7 +257,7 @@ def run(target_genre=None):
             carousel_folder=carousel_folder,
             caption=caption,
             genre=genre,
-            max_slides=10,
+            max_slides=20,
         )
         if ig_success:
             print("✅ Successfully published to Instagram & updated bio!")

@@ -89,7 +89,7 @@ def upload_carousel_and_update_bio(
     carousel_folder: str | Path,
     caption: str,
     genre: Optional[str] = None,
-    max_slides: int = 10,
+    max_slides: int = 20,
 ) -> bool:
     """
     Uploads the generated carousel deck to Instagram and updates the profile bio.
