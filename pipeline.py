@@ -246,18 +246,19 @@ def run(target_genre=None):
 
     # ---- Production path (only reached when LOCAL_TEST_MODE = False) ----
     from telegram_bot import send_carousel_album  # lazy import
-    dispatch_success = send_carousel_album(carousel_folder, caption_text=caption)
-    print(f"✅ Delivered 11-slide [{genre}] carousel directly to Telegram.")
+    dispatch_success, slide_urls = send_carousel_album(carousel_folder, caption_text=caption, return_urls=True)
+    print(f"✅ Delivered {len(slide_urls)}-slide [{genre}] carousel directly to Telegram.")
 
     # 7. Automatic Instagram Dispatch & Dynamic Bio Update
     try:
         from instagram_uploader import upload_carousel_and_update_bio
-        print(f"[*] Dispatching [{genre}] carousel & updating bio on Instagram @extrovertnerd...")
+        print(f"[*] Dispatching [{genre}] carousel to Instagram @extrovertnerd...")
         ig_success = upload_carousel_and_update_bio(
             carousel_folder=carousel_folder,
             caption=caption,
             genre=genre,
             max_slides=20,
+            image_urls=slide_urls,
         )
         if ig_success:
             print("✅ Successfully published to Instagram & updated bio!")
