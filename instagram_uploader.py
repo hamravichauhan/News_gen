@@ -18,6 +18,12 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 BASE_DIR = Path(__file__).resolve().parent
 SESSION_FILE = BASE_DIR / "ig_session.json"
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv(BASE_DIR / ".env")
+except ImportError:
+    pass
+
 GRAPH_API_VERSION = "v21.0"
 GRAPH_API_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
 META_ACCESS_TOKEN = os.getenv("META_ACCESS_TOKEN", "").strip()
